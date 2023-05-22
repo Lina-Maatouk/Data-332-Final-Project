@@ -1,5 +1,12 @@
 # Toxic Release and Chronic Disease 🔬
 
+## Introduction: 
+
+## Dependencies: 
+* This code is an R script.
+* The libraries needed for this project are: 
+* The dataset needed is also provided in the following link: [https://www.kaggle.com/datasets/ashwinik/consumer-complaints-financial-products](https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present)
+
 ## US Toxic release in 2021:biohazard:
 
 ![USsubdataframe](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/837b69f1-47a5-45ee-a27d-550dc96a12dc)
@@ -21,3 +28,7 @@ OpenAI recommends this prediction model because it incorporates best practices f
 
 
 #### Shiny app:
+
+# Authors
+
+Lina Maatouk
