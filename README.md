@@ -35,7 +35,16 @@ OpenAI recommends this prediction model because it incorporates best practices f
 
 #### Shiny app:
 
+Please find the following link to access an interactive Shiny app that provides various features for exploring chemical releases data:
+
 https://linamaatouk.shinyapps.io/Chemical-Release-Analysis/
+
+Within the app, you will find the option "Chemical Releases by Region," allowing you to filter and select specific regions of interest. By doing so, you can view the total values of released chemicals and visualize the data through an intuitive bar chart. It is noteworthy that Nitrate stands out as the most prevalent chemical released across all regions.
+
+Moreover, the app offers the choice to explore "Chemical Releases in California" specifically. Here, you can select a specific chemical name of interest and utilize the prediction feature to generate a data plot showcasing predicted values for the upcoming years.
+The Shiny app also includes a geospatial map feature, where red markers represent facilities. By clicking on these markers, you can access information on the chemicals released by each facility in the year 2021.
+
+
 
 # Authors
 
