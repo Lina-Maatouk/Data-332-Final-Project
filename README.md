@@ -14,7 +14,6 @@
 
 ![UStrimdata](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/12526667-2d31-494c-b325-37ab5c1e548d)
 
-#### Shiny app:
 
 ## Toxic release in California: 
 
@@ -28,6 +27,8 @@ OpenAI recommends this prediction model because it incorporates best practices f
 
 
 #### Shiny app:
+
+https://linamaatouk.shinyapps.io/Chemical-Release-Analysis/
 
 # Authors
 
