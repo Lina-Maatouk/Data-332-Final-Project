@@ -2,20 +2,27 @@
 
 ## Introduction: 
 
+This project focuses on analyzing toxic chemical releases in the United States, with a specific emphasis on California (CA) and New York (NY) in 2021, aiming to uncover correlations with chronic diseases. Through advanced statistical techniques and data visualization in R, we explore potential associations between toxic releases and chronic disease prevalence rates. Additionally, we have developed a predictive model using historical data from 2018 to 2021 to forecast chemical releases in CA, assisting stakeholders in making informed decisions regarding environmental regulations and public health initiatives. This repository provides access to datasets, analysis scripts, prediction models, and insightful results, enabling further exploration and understanding of the complex relationship between toxic chemical releases and chronic diseases.
+
+
 ## Dependencies: 
 * This code is an R script.
-* The libraries needed for this project are: 
 * The dataset needed is also provided in the following link: [https://www.kaggle.com/datasets/ashwinik/consumer-complaints-financial-products](https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present)
 
 ## US Toxic release in 2021:biohazard:
 
+- For the US dataset, we created sub data frames to see how the chemicals rate changes by region. We used filter function as showns below:
+
 ![USsubdataframe](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/837b69f1-47a5-45ee-a27d-550dc96a12dc)
 
+- Then, we trimmed the sub datasets to focus on the top 10 chemical released.
 
 ![UStrimdata](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/12526667-2d31-494c-b325-37ab5c1e548d)
 
 
 ## Toxic release in California: 
+
+Next, we decided to narrow our focus and chose to analyze the data from California. We combined the past datasets from 2018 to 2021 and build a prediction model using an LLM (OpenAI). 
 
 ![CAcleaning](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/2bea709b-65cd-4927-81b2-0dcef3781b4e)
 
