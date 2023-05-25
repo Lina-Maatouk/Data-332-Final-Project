@@ -91,7 +91,7 @@ The use of Leaflet in this code allows for the visualization of geographic data 
 
 
 ## 3. Chronic Disease:
-
+To choose the columns to work with, get a sample set of rows and clean the data  we used the following code:
 ```R
 df<-read.csv("U.S._Chronic_Disease_Indicators__CDI_ (1).csv")
 
@@ -121,8 +121,126 @@ df_3<-location_topic%>%
 write.csv(location_topic_desc, "location_topic_desc.csv", row.names = FALSE)
 ```
 
+### To read the clean data for the web app:
+```R
 
+# Assuming 'subset_data' is a valid data frame with the required columns
+subset_data <- readRDS("subset.rds")
+location_topic_data <- readRDS("location_topic.rds")
 
+# Get unique values of 'LocationAbbr' column
+unique_locations <- unique(subset_data$LocationAbbr)
+```
+#### Shiny
+```R
+ui <- fluidPage(
+  tabsetPanel(
+    tabPanel("Disease Prevalence by State",
+             selectInput("state", "Select State:", choices = unique_locations),
+             plotOutput("chart1")),
+    tabPanel("Disease Prevalence by Topic",
+             selectInput("topic", "Select Topic:", choices = unique(subset_data$Topic)),
+             plotOutput("chart2")),
+    tabPanel("Map",
+             checkboxGroupInput("topics", "Select Topics:", choices = unique(subset_data$Topic)),
+             leafletOutput("map")),
+    tabPanel("Location",
+             selectInput("location", "Select Location", choices = unique_locations),
+             DT::dataTableOutput("table")),
+    tabPanel("Regression Prediction",
+             selectInput("disease", "Select Disease:", choices = unique(subset_data$Question)),
+             actionButton("predictBtn", "Predict"),
+             textOutput("predictionText"))
+  )
+)
+
+server <- function(input, output) {
+  
+  # Render the chart 1
+  output$chart1 <- renderPlot({
+    filtered_df <- subset_data[subset_data$LocationAbbr == input$state, ]
+    
+    ggplot(filtered_df, aes(x = Topic, fill = Topic)) +
+      geom_bar() +
+      ggtitle(paste("Disease Prevalence in", input$state)) +
+      theme(legend.position = "none", plot.title = element_text(hjust = 0.5)) +
+      scale_fill_manual(values = rainbow(length(unique(filtered_df$Topic))))
+  })
+  
+  # Render the chart 2
+  output$chart2 <- renderPlot({
+    filtered_df <- subset_data[subset_data$Topic == input$topic, ]
+    
+    ggplot(filtered_df, aes(x = LocationAbbr, fill = Topic)) +
+      geom_bar() +
+      ggtitle(paste("Disease Prevalence Comparison by State")) +
+      theme(legend.position = "right", plot.title = element_text(hjust = 0.5))
+  })
+  
+  # Render the map
+  output$map <- renderLeaflet({
+    selected_topics <- input$topics
+    
+    leaflet() %>%
+      addTiles() %>%
+      setView(lng = -95.7129, lat = 37.0902, zoom = 4) %>%
+      addCircleMarkers(data = subset_data[subset_data$Topic %in% selected_topics, ],
+                       lng = ~Lon,
+                       lat = ~Lat,
+                       radius = 5,
+                       color = "red",
+                       fillColor = "red",
+                       fillOpacity = 0.5,
+                       popup = ~paste("State: ", LocationDesc, "<br>Disease: ", Question))
+  })
+  
+  # Regression-based Prediction
+  output$predictionText <- renderText({
+    # Filter data based on selected disease
+    filtered_data <- subset_data[subset_data$Question == input$disease, ]
+    
+    # Prepare the data for regression
+    regression_data <- filtered_data %>%
+      group_by(LocationAbbr) %>%
+      summarise(TotalCases =  n(), .groups = "keep") %>%
+      select(TotalCases, everything())
+    print(regression_data)
+    # Remove rows with missing values
+    regression_data <- na.omit(regression_data)
+    
+    # Split the data into training and testing sets
+    set.seed(123) # For reproducibility
+    train_index <- createDataPartition(regression_data$TotalCases, p = 0.7, list = FALSE)
+    train_data <- regression_data[train_index, ]
+    test_data <- regression_data[-train_index, ]
+    
+    # Select regression algorithm (e.g., linear regression)
+    model <- train(TotalCases ~ ., data = train_data, method = "lm")
+    
+    # Make predictions on the testing data
+    predicted <- predict(model, newdata = test_data)
+    
+    # Combine the predicted values with the actual values
+    result <- cbind(test_data, PredictedCases = predicted)
+    
+    # Sort the predicted total cases in descending order
+    sorted_result <- result[order(-result$PredictedCases), ]
+    
+    # Get the states with the most total cases
+    top_states <- head(sorted_result$LocationAbbr, 5)
+    
+    # Prepare the output text
+    prediction_text <- paste("States with Most Total Cases for", input$disease, ":")
+    prediction_text <- paste(prediction_text, paste(top_states, collapse = ", "))
+    
+    # Return the prediction text
+    prediction_text
+  })
+  
+}
+
+shinyApp(ui = ui, server = server)
+```
 
 
 # Authors
