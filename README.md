@@ -53,6 +53,37 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 ## 2. Toxic release in NYC:biohazard:
 
 
+#### Chronic Disease:
+
+R```
+df<-read.csv("U.S._Chronic_Disease_Indicators__CDI_ (1).csv")
+
+df_1 = df[,c(1,3,4,6,7,18,23,24)]
+
+df_1$Lat <- as.numeric(gsub("[()]", "", df$Lat))
+df_1$Lon <- as.numeric(gsub("[()]", "", df$Lon))
+df_1 <- df_1[complete.cases(df_1), ]
+
+num_rows <- 1000  # Specify the number of rows you want
+
+# Get a random subset of 'num_rows' rows from the dataset
+subset <- dplyr::sample_n(df_1, num_rows, replace = FALSE)
+saveRDS(subset, file = "subset.rds")
+
+#By locataion
+location_topic <- subset %>% 
+  group_by(LocationAbbr,Topic) %>% 
+  dplyr::summarize(Total = n())
+
+
+write.csv(location_topic, "location_topic.csv", row.names = FALSE)
+saveRDS(location_topic, file = "location_topic.rds")
+df_3<-location_topic%>%
+  arrange(desc(location_topic$Total))
+
+write.csv(location_topic_desc, "location_topic_desc.csv", row.names = FALSE)
+```
+
 
 
 
@@ -62,4 +93,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 
 # Authors
 
-Lina Maatouk, Hildana Teklegiorgis
+Lina Maatouk, Hildana Teklegiorgis, Eyoel Mulugeta
