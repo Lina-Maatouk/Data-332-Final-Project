@@ -52,6 +52,39 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 
 ## 2. Toxic release in NYC:biohazard:
 
+### 1.	Its interactive map of New York state using the Leaflet package in R. The map would display circle markers at different locations on the map, representing various facilities.
+
+Each circle marker represents a specific facility, and when clicked, a popup window would appear with additional information about that facility. The information displayed in the popup includes:
+
+Facility Name: This would show the name or identifier of the facility represented by the marker.
+State: It indicates the state where the facility is located, providing additional geographical context.
+Zip Code: This shows the zip code associated with the facility's location.
+Compound Released: It displays the information about the chemicals that were released or associated with the facility.
+Street Address: This provides the street address of the facility's location, offering a more precise identification.
+
+The use of Leaflet in this code allows for the visualization of geographic data in an interactive and visually appealing manner. It enables the exploration of facility locations, provides additional information about each facility through popups,
+
+    ny_map <- leaflet() %>%
+      setView(-75.3470, 42.6953, zoom = 7) %>%
+      addProviderTiles("CartoDB.Positron")
+
+    # Convert the data frame to a leaflet-compatible format
+    df_coords <- data.frame(lat = df_1$latitude, lng = df_1$Longitude, 
+                            state = df_1$state, facility_name = df_1$facility_name,
+                            zip = df_1$zip, chemicals = df_1$chemicals,Street_Address = df_1$Street_Address )
+
+    # Add the markers to the map
+    ny_map <- ny_map %>%
+      addCircleMarkers(data = df_coords, 
+                       lng = ~lng, 
+                       lat = ~lat, 
+                       radius = 5, 
+                       color = ~state,
+                       fillOpacity = 0.5,
+                       popup = ~paste("Facility Name: ", facility_name, "<br>State: ", state, "<br>Zip Code: ", zip, "<br>Compound Released:",chemicals, "<br>Street Address:",Street_Address))
+
+    # Show the map
+    ny_map
 
 ## 3. Chronic Disease:
 
