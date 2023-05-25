@@ -53,7 +53,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 ## 2. Toxic release in NYC:biohazard:
 
 
-## Chronic Disease:
+## 3. Chronic Disease:
 
 ```R
 df<-read.csv("U.S._Chronic_Disease_Indicators__CDI_ (1).csv")
@@ -84,10 +84,7 @@ df_3<-location_topic%>%
 write.csv(location_topic_desc, "location_topic_desc.csv", row.names = FALSE)
 ```
 
-.
 
-
-## 3. Chronic Disease in the US:
 
 
 
