@@ -52,7 +52,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 
 ## 2. Toxic release in NYC:biohazard:
 
-### 1.	Its interactive map of New York state using the Leaflet package in R. The map would display circle markers at different locations on the map, representing various facilities.
+### 1.	GeoSpatial Map
+
+Its interactive map of New York state using the Leaflet package in R. The map would display circle markers at different locations on the map, representing various facilities.
 
 Each circle marker represents a specific facility, and when clicked, a popup window would appear with additional information about that facility. The information displayed in the popup includes:
 
@@ -63,7 +65,7 @@ Compound Released: It displays the information about the chemicals that were rel
 Street Address: This provides the street address of the facility's location, offering a more precise identification.
 
 The use of Leaflet in this code allows for the visualization of geographic data in an interactive and visually appealing manner. It enables the exploration of facility locations, provides additional information about each facility through popups,
-
+```R
     ny_map <- leaflet() %>%
       setView(-75.3470, 42.6953, zoom = 7) %>%
       addProviderTiles("CartoDB.Positron")
@@ -85,6 +87,7 @@ The use of Leaflet in this code allows for the visualization of geographic data 
 
     # Show the map
     ny_map
+    ```
 
 ## 3. Chronic Disease:
 
