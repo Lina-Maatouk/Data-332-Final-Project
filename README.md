@@ -1,4 +1,5 @@
 # Toxic Release and Chronic Disease 🔬
+![ReduceToxicSubtances](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/108307724/61c8ace4-6aad-4cc6-b3e6-88f418890356)
 
 ## Introduction: 
 
