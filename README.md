@@ -84,7 +84,7 @@ df_3<-location_topic%>%
 write.csv(location_topic_desc, "location_topic_desc.csv", row.names = FALSE)
 ```
 
-
+.
 
 
 ## 3. Chronic Disease in the US:
