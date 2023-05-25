@@ -47,6 +47,8 @@ The Shiny app also includes a geospatial map feature, where red markers represen
 ### Analysis: 
 
 Our analysis shows that the highest chemical released by most facilities in the US is nitrate compounds, raising serious concerns about their potential impact on chronic diseases. Nitrate compounds, commonly found in industrial and agricultural activities, have been associated with an increased risk of developing various chronic illnesses. When ingested or absorbed into the body, nitrates can undergo chemical reactions that convert them into nitrite and nitrosamines, known to be harmful substances. Nitrosamines, extensively studied, have been linked to the development of certain types of cancer such as stomach, bladder, and colon cancer, due to their ability to damage DNA, disrupt cellular processes, and promote the growth of cancerous cells. Long-term exposure to high nitrate levels through contaminated water or nitrate-rich foods may contribute to the initiation and progression of these chronic diseases. Moreover, excessive nitrate intake can lead to methemoglobinemia, or "blue baby syndrome," particularly harmful to infants as it reduces the blood's oxygen-carrying capacity. To mitigate the risks associated with nitrate compounds and chronic diseases, it is crucial to regulate their release into the environment, implement stricter pollution control measures, improve wastewater treatment systems, and promote sustainable agricultural practices. Regular monitoring of nitrate levels in drinking water sources and raising awareness about the potential health impacts are also vital for protecting public health.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
+
 
 ## 2. Toxic release in NYC:biohazard:
 
