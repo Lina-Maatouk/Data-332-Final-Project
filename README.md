@@ -55,7 +55,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 
 #### Chronic Disease:
 
-R```
+```R
 df<-read.csv("U.S._Chronic_Disease_Indicators__CDI_ (1).csv")
 
 df_1 = df[,c(1,3,4,6,7,18,23,24)]
