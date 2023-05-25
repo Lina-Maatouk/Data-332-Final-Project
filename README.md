@@ -9,7 +9,7 @@ This project focuses on analyzing toxic chemical releases in the United States, 
 * This code is an R script.
 * The dataset needed is also provided in the following link: https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present
 
-## US Toxic release in 2021:biohazard:
+## 1. US Toxic release in 2021:biohazard:
 
 - For the US dataset, we created sub data frames to see how the chemicals rate changes by region. We used filter function as showns below:
 
@@ -20,7 +20,7 @@ This project focuses on analyzing toxic chemical releases in the United States, 
 ![UStrimdata](https://github.com/Lina-Maatouk/Data-332-Final-Project/assets/118494394/12526667-2d31-494c-b325-37ab5c1e548d)
 
 
-## Toxic release in California: 
+### Toxic release in California: 
 
 Next, we decided to narrow our focus and chose to analyze the data from California. We combined the past datasets from 2018 to 2021 and build a prediction model using an LLM (OpenAI). 
 
@@ -43,6 +43,18 @@ Within the app, you will find the option "Chemical Releases by Region," allowing
 
 Moreover, the app offers the choice to explore "Chemical Releases in California" specifically. Here, you can select a specific chemical name of interest and utilize the prediction feature to generate a data plot showcasing predicted values for the upcoming years.
 The Shiny app also includes a geospatial map feature, where red markers represent facilities. By clicking on these markers, you can access information on the chemicals released by each facility in the year 2021.
+
+### Analysis: 
+
+Our analysis shows that the highest chemical released by most facilities in the US is nitrate compounds, raising serious concerns about their potential impact on chronic diseases. Nitrate compounds, commonly found in industrial and agricultural activities, have been associated with an increased risk of developing various chronic illnesses. When ingested or absorbed into the body, nitrates can undergo chemical reactions that convert them into nitrite and nitrosamines, known to be harmful substances. Nitrosamines, extensively studied, have been linked to the development of certain types of cancer such as stomach, bladder, and colon cancer, due to their ability to damage DNA, disrupt cellular processes, and promote the growth of cancerous cells. Long-term exposure to high nitrate levels through contaminated water or nitrate-rich foods may contribute to the initiation and progression of these chronic diseases. Moreover, excessive nitrate intake can lead to methemoglobinemia, or "blue baby syndrome," particularly harmful to infants as it reduces the blood's oxygen-carrying capacity. To mitigate the risks associated with nitrate compounds and chronic diseases, it is crucial to regulate their release into the environment, implement stricter pollution control measures, improve wastewater treatment systems, and promote sustainable agricultural practices. Regular monitoring of nitrate levels in drinking water sources and raising awareness about the potential health impacts are also vital for protecting public health.
+
+## 2. Toxic release in NYC:biohazard:
+
+
+
+
+
+## 3. Chronic Disease in the US:
 
 
 
