@@ -52,6 +52,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068531/
 
 ## 2. Toxic release in NYC:biohazard:
 
+
 ### 1.	GeoSpatial Map
 
 Its interactive map of New York state using the Leaflet package in R. The map would display circle markers at different locations on the map, representing various facilities.
@@ -65,8 +66,9 @@ Compound Released: It displays the information about the chemicals that were rel
 Street Address: This provides the street address of the facility's location, offering a more precise identification.
 
 The use of Leaflet in this code allows for the visualization of geographic data in an interactive and visually appealing manner. It enables the exploration of facility locations, provides additional information about each facility through popups,
-```R
-    ny_map <- leaflet() %>%
+
+
+     ny_map <- leaflet() %>%
       setView(-75.3470, 42.6953, zoom = 7) %>%
       addProviderTiles("CartoDB.Positron")
 
@@ -86,8 +88,75 @@ The use of Leaflet in this code allows for the visualization of geographic data 
                        popup = ~paste("Facility Name: ", facility_name, "<br>State: ", state, "<br>Zip Code: ", zip, "<br>Compound Released:",chemicals, "<br>Street Address:",Street_Address))
 
     # Show the map
-    ny_map
-    ```
+    ny_map 
+
+### 2. Chemical Count By Metal Catagories 
+
+This Is plot visualizing the count of chemicals by different metal categories. Both bars represent a metal category, one show chemicals that contain metal and the other is nonmetal. 
+
+When individuals are exposed to these metals over an extended period, they can accumulate in the body, particularly in organs like the liver, kidneys, and brain. The persistent presence of metals such as lead, mercury, arsenic, and cadmium can disrupt the normal functioning of these organs, leading to chronic toxicity and the development of diseases. Furthermore, certain metals can generate reactive oxygen species (ROS) in the body, causing oxidative stress. Chronic oxidative stress can damage cells, proteins, and DNA, contributing to the onset of chronic conditions such as cardiovascular disorders, neurodegenerative diseases, and cancer. Additionally, metals can interfere with essential enzyme systems and disrupt the immune system, leading to further health complications. Overall, the potential for chronic diseases arises from the accumulation, oxidative stress, enzyme disruption, and immunotoxicity caused by metals in chemical compounds.
+
+        Metal_table <- df_1 %>%
+      group_by(Metals) %>%
+      summarize(Count = n())
+
+    ggplot(Metal_table, aes(x = Metals, y = Count, fill = Metals)) +
+      geom_bar(stat = "identity") +
+      labs(title = "Chemicals Count by Metal Categories", x = "Metals", y = "Count") +
+      theme_minimal()
+
+### 3. Facilty Count by Industry Sector 
+
+plot visualizing the count of facilities by different industry sectors. Each bar represents an industry sector, 
+
+
+Various industries mentioned in the provided list can have the potential to contribute to chronic diseases. For instance, industries involved in the production or use of chemicals may pose health risks if proper safety measures and regulations are not in place. 
+
+Exposure to certain chemicals can lead to chronic health issues such as respiratory problems, neurological disorders, cancers, and systemic diseases. Electric utilities, particularly those reliant on fossil fuels, can contribute to air pollution and emit harmful pollutants, which have been linked to respiratory diseases, cardiovascular issues, and chronic conditions. Certain sectors within the food industry, such as fast food or processed food manufacturing, can promote unhealthy diets and contribute to chronic diseases like obesity, type 2 diabetes, cardiovascular diseases, and cancer. Industries associated with petroleum products and primary metals may pose risks through exposure to toxic substances and pollutants, potentially leading to chronic health problems such as respiratory issues, skin disorders, and developmental disorders. It is important to note that the specific impact on health depends on various factors, including industry practices, regulations, and safety measures implemented to mitigate health risks.
+
+        Industry_sector<- df_1 %>%
+          group_by(Industry_Sector) %>%
+          summarize(Count = n())
+
+
+        ggplot(data =Industry_sector , aes(x = Industry_Sector, y = Count)) +
+          geom_bar(stat = "identity", fill = "steelblue") +
+          labs(x = "Industry Sector", y = "Count", title = "Count of Facilities by Industry Sector")+
+          theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+### 4. Top Chemicals Finished 
+
+plot visualizing the top 10 chemicals based on their on-site release totals.
+
+We did this to show that repeated exposure to certain chemicals can increase the risk of chronic health issues. For example, carcinogenic chemicals like benzene or certain metals can lead to the development of cancer over time. 
+
+
+Other chemicals can impact the respiratory system and contribute to chronic conditions such as asthma or chronic obstructive pulmonary disease. Neurotoxic chemicals can affect the nervous system, potentially leading to neurodevelopmental disorders or neurological diseases. Some chemicals may disrupt reproductive and developmental processes, increasing the risk of fertility issues, hormonal disruptions, and birth defects. Certain metals can cause organ damage, such as kidney damage or neurological impairments. Additionally, some chemicals can have systemic effects, contributing to chronic inflammation, oxidative stress, and immune system dysfunction. It's important to understand that the potential for these chemicals to cause chronic diseases depends on various factors, including exposure levels, duration of exposure, individual susceptibility, and regulatory measures in place to minimize risks. Responsible handling, safety protocols, and adherence to regulations are crucial to mitigate potential health hazards and ensure the well-being of individuals and the environment.
+
+        chemicals <- df_3$chemicals
+        on_site_release_total <- df_3$on_site_release_total
+
+        # Change zeros to NA in the on_site_release_total column and drop NAs
+        df_3$on_site_release_total <- ifelse(df_3$on_site_release_total == 0, NA, df_3$on_site_release_total)
+        df_3 <- df_3 %>% drop_na()
+
+
+        # Order the data frame by decreasing on-site release total
+        df_3_ordered <- df_3[order(-df_3$on_site_release_total),]
+
+        df_3_ordered <- df_1 %>%
+          arrange(desc(on_site_release_total))
+
+        # Get the top 10 chemicals by on-site release total
+        top_10_chemicals <- df_3_ordered %>%
+          top_n(12, on_site_release_total)
+
+        # Create a bar plot showing the top 10 chemicals by on-site release total
+        ggplot(head(df_3_ordered, 10), aes(x = chemicals, y = on_site_release_total)) +
+          geom_bar(stat = "identity", fill = "skyblue") +
+          labs(x = "Chemicals", y = "On-site release total", title = "Top 10 Chemicals Released") +
+          theme_minimal() +
+          theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 
 ## 3. Chronic Disease:
