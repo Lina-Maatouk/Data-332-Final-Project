@@ -1,0 +1,1001 @@
+"YearStart","LocationAbbr","LocationDesc","Topic","Question","Stratification1","Lon","Lat"
+2018,"CT","Connecticut","Older Adults","Prevalence of 2 or more chronic conditions among Medicare-enrolled persons aged >= 65 years","Male",-72.6498409519996,41.5626610200005
+2011,"OK","Oklahoma","Cardiovascular Disease","Mortality from diseases of the heart","White, non-Hispanic",-97.5210702139997,35.4720313560005
+2010,"MA","Massachusetts","Cancer","Cancer of the lung and bronchus, incidence","Male",-72.0826906749996,42.2768704700005
+2015,"NY","New York","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Black, non-Hispanic",-75.5439704269996,42.8270010320005
+2019,"IL","Illinois","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease","Female",-88.9977101779997,40.4850102830005
+2013,"MN","Minnesota","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Multiracial, non-Hispanic",-94.7942005029997,46.3556487360005
+2021,"FL","Florida","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Other, non-Hispanic",-81.9289605389997,28.9320403770005
+2018,"ME","Maine","Asthma","Emergency department visit rate for asthma","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2019,"OK","Oklahoma","Tobacco","Amount of tobacco product excise tax","Overall",-97.5210702139997,35.4720313560005
+2013,"MN","Minnesota","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years","Other, non-Hispanic",-94.7942005029997,46.3556487360005
+2013,"NV","Nevada","Asthma","Hospitalizations for asthma","Overall",-117.071840564,39.4932403900005
+2014,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","White, non-Hispanic",-111.763811277,34.8659702800005
+2011,"CA","California","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","Female",-120.999999538,37.6386401230005
+2015,"RI","Rhode Island","Alcohol","Amount of alcohol excise tax by beverage type (distilled spirits)","Overall",-71.5224703139996,41.7082801930005
+2013,"MN","Minnesota","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Black, non-Hispanic",-94.7942005029997,46.3556487360005
+2016,"OK","Oklahoma","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Overall",-97.5210702139997,35.4720313560005
+2013,"NH","New Hampshire","Cancer","Invasive cancer of the female breast, incidence","White, non-Hispanic",-71.5003609199997,43.6559501130005
+2014,"NH","New Hampshire","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Other, non-Hispanic",-71.5003609199997,43.6559501130005
+2010,"NJ","New Jersey","Nutrition, Physical Activity, and Weight Status","Infants breastfed at 6 months","Overall",-74.2736912879997,40.1305700480005
+2015,"PA","Pennsylvania","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Multiracial, non-Hispanic",-77.8607002939996,40.7937301520005
+2016,"MI","Michigan","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Female",-84.7143902699997,44.6613195430005
+2012,"NJ","New Jersey","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Overall",-74.2736912879997,40.1305700480005
+2016,"KY","Kentucky","Cardiovascular Disease","Mortality from diseases of the heart","Asian or Pacific Islander",-84.7749710479997,37.6459702710005
+2021,"FL","Florida","Tobacco","Amount of tobacco product excise tax","Overall",-81.9289605389997,28.9320403770005
+2011,"NJ","New Jersey","Cancer","Cancer of the female breast, mortality","Overall",-74.2736912879997,40.1305700480005
+2018,"KS","Kansas","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","Male",-98.2007812269997,38.3477403000005
+2015,"FL","Florida","Nutrition, Physical Activity, and Weight Status","No leisure-time physical activity among adults aged >= 18 years","Multiracial, non-Hispanic",-81.9289605389997,28.9320403770005
+2012,"IL","Illinois","Oral Health","All teeth lost among adults aged >= 65 years","Multiracial, non-Hispanic",-88.9977101779997,40.4850102830005
+2012,"WV","West Virginia","Cardiovascular Disease","Mortality from coronary heart disease","Black, non-Hispanic",-80.7126401349997,38.6655102020005
+2020,"PA","Pennsylvania","Older Adults","Proportion of older adults aged >= 65 years who are up to date on a core set of clinical preventive services","Overall",-77.8607002939996,40.7937301520005
+2010,"MN","Minnesota","Chronic Kidney Disease","Mortality with end-stage renal disease","Overall",-94.7942005029997,46.3556487360005
+2018,"MO","Missouri","Immunization","Influenza vaccination among noninstitutionalized adults aged >= 18 years","Hispanic",-92.5663000529997,38.6357907760005
+2013,"CT","Connecticut","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged >= 18 years","Other, non-Hispanic",-72.6498409519996,41.5626610200005
+2014,"ND","North Dakota","Cancer","Melanoma, mortality","White, non-Hispanic",-100.118421049,47.4753197790005
+2015,"CT","Connecticut","Cancer","Melanoma, mortality","Overall",-72.6498409519996,41.5626610200005
+2014,"MI","Michigan","Diabetes","Adults with diagnosed diabetes aged >= 18 years who have taken a diabetes self-management course","Female",-84.7143902699997,44.6613195430005
+2015,"NH","New Hampshire","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-71.5003609199997,43.6559501130005
+2016,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Overall",-111.763811277,34.8659702800005
+2012,"AK","Alaska","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Overall",-147.722059036,64.8450799570005
+2012,"MN","Minnesota","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Black, non-Hispanic",-94.7942005029997,46.3556487360005
+2015,"NY","New York","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged >= 18 years","Other, non-Hispanic",-75.5439704269996,42.8270010320005
+2019,"KY","Kentucky","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Hispanic",-84.7749710479997,37.6459702710005
+2015,"MT","Montana","Cancer","Cancer of the female cervix, mortality","Male",-109.424420645,47.0665289720005
+2013,"HI","Hawaii","Alcohol","Alcohol use among youth","White, non-Hispanic",-157.857749403,21.3048504350004
+2012,"TN","Tennessee","Cardiovascular Disease","Mortality from coronary heart disease","Overall",-85.7744909139997,35.6809405800005
+2020,"DE","Delaware","Diabetes","Mortality due to diabetes reported as any listed cause of death","Black, non-Hispanic",-75.5777411679996,39.0088306670005
+2009,"OR","Oregon","Cancer","Cancer of the oral cavity and pharynx, mortality","White, non-Hispanic",-120.155031326,44.5674494240005
+2016,"AR","Arkansas","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","Overall",-92.2744907429997,34.7486501240004
+2013,"MS","Mississippi","Cancer","Cancer of the oral cavity and pharynx, mortality","Female",-89.5380308249997,32.7455100990005
+2012,"IN","Indiana","Cardiovascular Disease","Mortality from diseases of the heart","Black, non-Hispanic",-86.1499601939997,39.7669104520004
+2016,"CA","California","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Male",-120.999999538,37.6386401230005
+2018,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Black, non-Hispanic",-84.7143902699997,44.6613195430005
+2013,"NV","Nevada","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","Hispanic",-117.071840564,39.4932403900005
+2019,"CO","Colorado","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Hispanic",-106.133610921,38.8438407570005
+2020,"LA","Louisiana","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Hispanic",-92.4456800709997,31.3126606440005
+2019,"HI","Hawaii","Alcohol","Heavy drinking among adults aged >= 18 years","Multiracial, non-Hispanic",-157.857749403,21.3048504350004
+2017,"CT","Connecticut","Overarching Conditions","Current lack of health insurance among adults aged 18-64 years","White, non-Hispanic",-72.6498409519996,41.5626610200005
+2011,"SD","South Dakota","Cancer","Cancer of the lung and bronchus, incidence","Hispanic",-100.373530637,44.3531300530005
+2016,"CA","California","Chronic Kidney Disease","Incidence of treated end-stage renal disease","Overall",-120.999999538,37.6386401230005
+2013,"ME","Maine","Cancer","Invasive melanoma, incidence","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2019,"NE","Nebraska","Reproductive Health","Folic acid supplementation","Black, non-Hispanic",-99.3657206229997,41.6410409880005
+2017,"NH","New Hampshire","Overarching Conditions","Premature mortality among adults aged 45-64 years","Black, non-Hispanic",-71.5003609199997,43.6559501130005
+2010,"IA","Iowa","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Asian or Pacific Islander",-93.8164905559997,42.4694009130005
+2021,"KY","Kentucky","Diabetes","Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes","Hispanic",-84.7749710479997,37.6459702710005
+2011,"TN","Tennessee","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-85.7744909139997,35.6809405800005
+2018,"MN","Minnesota","Oral Health","No tooth loss among adults aged 18-64 years","White, non-Hispanic",-94.7942005029997,46.3556487360005
+2017,"UT","Utah","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","Asian or Pacific Islander",-111.587130635,39.3607001710005
+2020,"NH","New Hampshire","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Female",-71.5003609199997,43.6559501130005
+2019,"LA","Louisiana","Diabetes","Influenza vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Male",-92.4456800709997,31.3126606440005
+2013,"GU","Guam","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged >= 18 years","Female",144.793731,13.444304
+2015,"ID","Idaho","Tobacco","Quit attempts in the past year among current smokers","Hispanic",-114.363730042,43.6826300050005
+2016,"LA","Louisiana","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Black, non-Hispanic",-92.4456800709997,31.3126606440005
+2011,"OK","Oklahoma","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Female",-97.5210702139997,35.4720313560005
+2010,"NC","North Carolina","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Overall",-79.1592504629996,35.4662209750005
+2020,"OK","Oklahoma","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Hispanic",-97.5210702139997,35.4720313560005
+2013,"OR","Oregon","Cancer","Cancer of the lung and bronchus, mortality","Overall",-120.155031326,44.5674494240005
+2019,"SC","South Carolina","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Black, non-Hispanic",-81.0453712069997,33.9988213030005
+2015,"VT","Vermont","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Asian or Pacific Islander",-72.5176407909996,43.6253812390005
+2013,"WY","Wyoming","Cancer","Cancer of the prostate, mortality","Overall",-108.109830353,43.2355413430005
+2018,"IL","Illinois","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Hispanic",-88.9977101779997,40.4850102830005
+2019,"CA","California","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","Multiracial, non-Hispanic",-120.999999538,37.6386401230005
+2020,"ID","Idaho","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Black, non-Hispanic",-114.363730042,43.6826300050005
+2018,"NV","Nevada","Tobacco","Current smoking among adults aged >= 18 years","Female",-117.071840564,39.4932403900005
+2019,"MS","Mississippi","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Male",-89.5380308249997,32.7455100990005
+2014,"HI","Hawaii","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Overall",-157.857749403,21.3048504350004
+2013,"PR","Puerto Rico","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Female",-66.590149,18.220833
+2013,"CA","California","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Overall",-120.999999538,37.6386401230005
+2014,"OK","Oklahoma","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Asian or Pacific Islander",-97.5210702139997,35.4720313560005
+2016,"NE","Nebraska","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Overall",-99.3657206229997,41.6410409880005
+2011,"AZ","Arizona","Cancer","Cancer of the female breast, mortality","Asian or Pacific Islander",-111.763811277,34.8659702800005
+2010,"LA","Louisiana","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Asian or Pacific Islander",-92.4456800709997,31.3126606440005
+2011,"HI","Hawaii","Disability","Disability among adults aged >= 65 years","Female",-157.857749403,21.3048504350004
+2017,"IA","Iowa","Cardiovascular Disease","Mortality from total cardiovascular diseases","Hispanic",-93.8164905559997,42.4694009130005
+2018,"OK","Oklahoma","Asthma","Current asthma prevalence among adults aged >= 18 years","Multiracial, non-Hispanic",-97.5210702139997,35.4720313560005
+2013,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-111.763811277,34.8659702800005
+2020,"OR","Oregon","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Overall",-120.155031326,44.5674494240005
+2008,"DC","District of Columbia","Cancer","Cancer of the lung and bronchus, mortality","Female",-77.036871,38.907192
+2012,"ND","North Dakota","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","White, non-Hispanic",-100.118421049,47.4753197790005
+2015,"UT","Utah","Diabetes","Hospitalization with diabetes as a listed diagnosis","Overall",-111.587130635,39.3607001710005
+2014,"WI","Wisconsin","Cardiovascular Disease","Mortality from heart failure","Hispanic",-89.8163707419997,44.3931911740005
+2009,"WY","Wyoming","Cancer","Cancer of the prostate, mortality","Female",-108.109830353,43.2355413430005
+2018,"IN","Indiana","Chronic Kidney Disease","Incidence of treated end-stage renal disease","Overall",-86.1499601939997,39.7669104520004
+2020,"NC","North Carolina","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Female",-79.1592504629996,35.4662209750005
+2015,"NV","Nevada","Cancer","Invasive cancer (all sites combined), mortality","Female",-117.071840564,39.4932403900005
+2017,"AL","Alabama","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-86.6318607619997,32.8405711220005
+2012,"WV","West Virginia","Reproductive Health","Postpartum checkup","White, non-Hispanic",-80.7126401349997,38.6655102020005
+2012,"MN","Minnesota","Arthritis","Physical inactivity among adults aged >= 18 years with arthritis","Overall",-94.7942005029997,46.3556487360005
+2021,"NE","Nebraska","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Overall",-99.3657206229997,41.6410409880005
+2017,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Black, non-Hispanic",-99.3657206229997,41.6410409880005
+2011,"DE","Delaware","Alcohol","Binge drinking prevalence among adults aged >= 18 years","White, non-Hispanic",-75.5777411679996,39.0088306670005
+2019,"CO","Colorado","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Female",-106.133610921,38.8438407570005
+2015,"AR","Arkansas","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","American Indian or Alaska Native",-92.2744907429997,34.7486501240004
+2011,"KY","Kentucky","Nutrition, Physical Activity, and Weight Status","No leisure-time physical activity among adults aged >= 18 years","Hispanic",-84.7749710479997,37.6459702710005
+2013,"MS","Mississippi","Chronic Kidney Disease","Mortality with end-stage renal disease","Female",-89.5380308249997,32.7455100990005
+2018,"AZ","Arizona","Diabetes","Amputation of a lower extremity attributable to diabetes","Black, non-Hispanic",-111.763811277,34.8659702800005
+2015,"NV","Nevada","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Hispanic",-117.071840564,39.4932403900005
+2019,"AZ","Arizona","Asthma","Asthma mortality rate","Female",-111.763811277,34.8659702800005
+2010,"CO","Colorado","Cancer","Invasive melanoma, incidence","Female",-106.133610921,38.8438407570005
+2015,"PR","Puerto Rico","Asthma","Hospitalizations for asthma","Hispanic",-66.590149,18.220833
+2013,"AR","Arkansas","Cancer","Cancer of the colon and rectum (colorectal), incidence","Hispanic",-92.2744907429997,34.7486501240004
+2016,"NH","New Hampshire","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","White, non-Hispanic",-71.5003609199997,43.6559501130005
+2019,"MS","Mississippi","Tobacco","Quit attempts in the past year among current smokers","Other, non-Hispanic",-89.5380308249997,32.7455100990005
+2013,"HI","Hawaii","Cancer","Melanoma, mortality","White, non-Hispanic",-157.857749403,21.3048504350004
+2014,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Male",-84.7143902699997,44.6613195430005
+2015,"ME","Maine","Cancer","Invasive cancer of the prostate, incidence","Hispanic",-68.9850313359996,45.2542288940005
+2014,"NJ","New Jersey","Cancer","Invasive cancer of the female breast, incidence","Overall",-74.2736912879997,40.1305700480005
+2017,"PR","Puerto Rico","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Male",-66.590149,18.220833
+2014,"CO","Colorado","Diabetes","Mortality due to diabetes reported as any listed cause of death","Hispanic",-106.133610921,38.8438407570005
+2016,"SC","South Carolina","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Multiracial, non-Hispanic",-81.0453712069997,33.9988213030005
+2012,"MT","Montana","Diabetes","Mortality due to diabetes reported as any listed cause of death","Hispanic",-109.424420645,47.0665289720005
+2019,"KY","Kentucky","Nutrition, Physical Activity, and Weight Status","Soda consumption among high school students","Hispanic",-84.7749710479997,37.6459702710005
+2013,"NH","New Hampshire","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-71.5003609199997,43.6559501130005
+2017,"GA","Georgia","Overarching Conditions","Current lack of health insurance among adults aged 18-64 years","White, non-Hispanic",-83.6275803459997,32.8396810930005
+2011,"OR","Oregon","Cancer","Melanoma, mortality","Black, non-Hispanic",-120.155031326,44.5674494240005
+2011,"NY","New York","Cancer","Invasive melanoma, incidence","Female",-75.5439704269996,42.8270010320005
+2016,"DC","District of Columbia","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Overall",-77.036871,38.907192
+2016,"WA","Washington","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","American Indian or Alaska Native",-120.47001079,47.5222786290005
+2017,"NC","North Carolina","Diabetes","Prevalence of depressive disorders among adults aged >= 18 years with diagnosed diabetes","Overall",-79.1592504629996,35.4662209750005
+2018,"ND","North Dakota","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","Black, non-Hispanic",-100.118421049,47.4753197790005
+2018,"NM","New Mexico","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Black, non-Hispanic",-106.240580985,34.5208809520005
+2013,"IA","Iowa","Cancer","Cancer of the lung and bronchus, incidence","Asian or Pacific Islander",-93.8164905559997,42.4694009130005
+2011,"KS","Kansas","Cancer","Cancer of the lung and bronchus, incidence","Female",-98.2007812269997,38.3477403000005
+2019,"MT","Montana","Nutrition, Physical Activity, and Weight Status","Healthy weight among high school students","Male",-109.424420645,47.0665289720005
+2012,"NV","Nevada","Arthritis","Arthritis among adults aged >= 18 years who are obese","White, non-Hispanic",-117.071840564,39.4932403900005
+2013,"CO","Colorado","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Overall",-106.133610921,38.8438407570005
+2015,"NH","New Hampshire","Diabetes","Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes","Hispanic",-71.5003609199997,43.6559501130005
+2012,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Overall",-99.3657206229997,41.6410409880005
+2008,"AK","Alaska","Cancer","Invasive cancer of the cervix, incidence","American Indian or Alaska Native",-147.722059036,64.8450799570005
+2011,"CT","Connecticut","Older Adults","Prevalence of 2 or more chronic conditions among Medicare-enrolled persons aged >= 65 years","Black, non-Hispanic",-72.6498409519996,41.5626610200005
+2012,"NM","New Mexico","Oral Health","All teeth lost among adults aged >= 65 years","Female",-106.240580985,34.5208809520005
+2019,"PA","Pennsylvania","Cardiovascular Disease","Mortality from coronary heart disease","Hispanic",-77.8607002939996,40.7937301520005
+2020,"MN","Minnesota","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","White, non-Hispanic",-94.7942005029997,46.3556487360005
+2011,"CA","California","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","White, non-Hispanic",-120.999999538,37.6386401230005
+2015,"GA","Georgia","Tobacco","Current cigarette smoking among women aged 18-44 years","Other, non-Hispanic",-83.6275803459997,32.8396810930005
+2018,"WV","West Virginia","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","Asian or Pacific Islander",-80.7126401349997,38.6655102020005
+2013,"WI","Wisconsin","Diabetes","Hospitalization with diabetes as a listed diagnosis","Female",-89.8163707419997,44.3931911740005
+2012,"GA","Georgia","Alcohol","Chronic liver disease mortality","White, non-Hispanic",-83.6275803459997,32.8396810930005
+2018,"LA","Louisiana","Asthma","Current asthma prevalence among adults aged >= 18 years","Black, non-Hispanic",-92.4456800709997,31.3126606440005
+2010,"MD","Maryland","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Asian or Pacific Islander",-76.6092601109996,39.2905809640005
+2017,"SC","South Carolina","Diabetes","Hospitalization with diabetes as a listed diagnosis","White, non-Hispanic",-81.0453712069997,33.9988213030005
+2021,"PA","Pennsylvania","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Black, non-Hispanic",-77.8607002939996,40.7937301520005
+2017,"TN","Tennessee","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-85.7744909139997,35.6809405800005
+2011,"PA","Pennsylvania","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","White, non-Hispanic",-77.8607002939996,40.7937301520005
+2015,"NJ","New Jersey","Alcohol","Binge drinking prevalence among women aged 18-44 years","Other, non-Hispanic",-74.2736912879997,40.1305700480005
+2012,"OR","Oregon","Cardiovascular Disease","Mortality from diseases of the heart","Black, non-Hispanic",-120.155031326,44.5674494240005
+2012,"WV","West Virginia","Chronic Kidney Disease","Mortality with end-stage renal disease","Black, non-Hispanic",-80.7126401349997,38.6655102020005
+2015,"MA","Massachusetts","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Hispanic",-72.0826906749996,42.2768704700005
+2020,"KS","Kansas","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","White, non-Hispanic",-98.2007812269997,38.3477403000005
+2015,"MD","Maryland","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Black, non-Hispanic",-76.6092601109996,39.2905809640005
+2019,"CO","Colorado","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Asian or Pacific Islander",-106.133610921,38.8438407570005
+2010,"FL","Florida","Overarching Conditions","Poverty","Male",-81.9289605389997,28.9320403770005
+2017,"OH","Ohio","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Female",-82.4042600559997,40.0602101410005
+2010,"FL","Florida","Cancer","Melanoma, mortality","American Indian or Alaska Native",-81.9289605389997,28.9320403770005
+2015,"NV","Nevada","Asthma","Current asthma prevalence among adults aged >= 18 years","Overall",-117.071840564,39.4932403900005
+2008,"MT","Montana","Cancer","Cancer of the lung and bronchus, incidence","Black, non-Hispanic",-109.424420645,47.0665289720005
+2017,"AK","Alaska","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Overall",-147.722059036,64.8450799570005
+2013,"RI","Rhode Island","Diabetes","Mortality due to diabetes reported as any listed cause of death","Male",-71.5224703139996,41.7082801930005
+2014,"AR","Arkansas","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Male",-92.2744907429997,34.7486501240004
+2020,"CA","California","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-120.999999538,37.6386401230005
+2012,"PA","Pennsylvania","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Overall",-77.8607002939996,40.7937301520005
+2012,"NC","North Carolina","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Female",-79.1592504629996,35.4662209750005
+2014,"HI","Hawaii","Cardiovascular Disease","Mortality from diseases of the heart","Asian or Pacific Islander",-157.857749403,21.3048504350004
+2012,"AK","Alaska","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Female",-147.722059036,64.8450799570005
+2018,"KS","Kansas","Oral Health","Visits to dentist or dental clinic among adults aged >= 18 years","Other, non-Hispanic",-98.2007812269997,38.3477403000005
+2011,"CO","Colorado","Arthritis","Physical inactivity among adults aged >= 18 years with arthritis","Multiracial, non-Hispanic",-106.133610921,38.8438407570005
+2010,"SC","South Carolina","Cancer","Cancer of the colon and rectum (colorectal), incidence","White, non-Hispanic",-81.0453712069997,33.9988213030005
+2013,"MS","Mississippi","Cancer","Cancer of the colon and rectum (colorectal), mortality","White, non-Hispanic",-89.5380308249997,32.7455100990005
+2012,"CT","Connecticut","Cancer","Invasive cancer of the cervix, incidence","Female",-72.6498409519996,41.5626610200005
+2017,"MD","Maryland","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2012,"MT","Montana","Chronic Kidney Disease","Mortality with end-stage renal disease","Black, non-Hispanic",-109.424420645,47.0665289720005
+2014,"WV","West Virginia","Cardiovascular Disease","Mortality from coronary heart disease","Hispanic",-80.7126401349997,38.6655102020005
+2014,"NM","New Mexico","Diabetes","Amputation of a lower extremity attributable to diabetes","White, non-Hispanic",-106.240580985,34.5208809520005
+2019,"MT","Montana","Chronic Kidney Disease","Mortality with end-stage renal disease","Male",-109.424420645,47.0665289720005
+2019,"AZ","Arizona","Arthritis","Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis","Male",-111.763811277,34.8659702800005
+2016,"ID","Idaho","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-114.363730042,43.6826300050005
+2021,"OH","Ohio","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","White, non-Hispanic",-82.4042600559997,40.0602101410005
+2013,"MA","Massachusetts","Cancer","Cancer of the colon and rectum (colorectal), mortality","Asian or Pacific Islander",-72.0826906749996,42.2768704700005
+2017,"MS","Mississippi","Nutrition, Physical Activity, and Weight Status","Television viewing among high school students","Overall",-89.5380308249997,32.7455100990005
+2010,"PA","Pennsylvania","Chronic Kidney Disease","Mortality with end-stage renal disease","Asian or Pacific Islander",-77.8607002939996,40.7937301520005
+2012,"MI","Michigan","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Black, non-Hispanic",-84.7143902699997,44.6613195430005
+2017,"LA","Louisiana","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Female",-92.4456800709997,31.3126606440005
+2012,"AK","Alaska","Diabetes","Mortality due to diabetes reported as any listed cause of death","White, non-Hispanic",-147.722059036,64.8450799570005
+2020,"OK","Oklahoma","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","White, non-Hispanic",-97.5210702139997,35.4720313560005
+2020,"MD","Maryland","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2019,"WY","Wyoming","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-108.109830353,43.2355413430005
+2016,"OK","Oklahoma","Asthma","Hospitalizations for asthma","White, non-Hispanic",-97.5210702139997,35.4720313560005
+2015,"SC","South Carolina","Overarching Conditions","Poverty","Female",-81.0453712069997,33.9988213030005
+2014,"RI","Rhode Island","Reproductive Health","Postpartum checkup","Other, non-Hispanic",-71.5224703139996,41.7082801930005
+2013,"AL","Alabama","Reproductive Health","Timeliness of routine health care checkup among women aged 18-44 years","White, non-Hispanic",-86.6318607619997,32.8405711220005
+2019,"WV","West Virginia","Alcohol","Alcohol use among youth","White, non-Hispanic",-80.7126401349997,38.6655102020005
+2016,"MN","Minnesota","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Overall",-94.7942005029997,46.3556487360005
+2018,"DE","Delaware","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-75.5777411679996,39.0088306670005
+2015,"WY","Wyoming","Cancer","Invasive cancer of the cervix, incidence","American Indian or Alaska Native",-108.109830353,43.2355413430005
+2013,"NM","New Mexico","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease","Overall",-106.240580985,34.5208809520005
+2010,"OK","Oklahoma","Cardiovascular Disease","Mortality from diseases of the heart","Overall",-97.5210702139997,35.4720313560005
+2014,"NE","Nebraska","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Male",-99.3657206229997,41.6410409880005
+2013,"MS","Mississippi","Cancer","Cancer of the prostate, mortality","White, non-Hispanic",-89.5380308249997,32.7455100990005
+2017,"ID","Idaho","Tobacco","Quit attempts in the past year among current smokers","Multiracial, non-Hispanic",-114.363730042,43.6826300050005
+2015,"IL","Illinois","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Overall",-88.9977101779997,40.4850102830005
+2014,"NV","Nevada","Cancer","Invasive cancer (all sites combined), incidence","Hispanic",-117.071840564,39.4932403900005
+2016,"NV","Nevada","Cardiovascular Disease","Mortality from diseases of the heart","Female",-117.071840564,39.4932403900005
+2018,"NJ","New Jersey","Arthritis","Arthritis among adults aged >= 18 years","Other, non-Hispanic",-74.2736912879997,40.1305700480005
+2011,"HI","Hawaii","Cardiovascular Disease","Mortality from total cardiovascular diseases","Asian or Pacific Islander",-157.857749403,21.3048504350004
+2013,"PR","Puerto Rico","Tobacco","Current cigarette smoking among women aged 18-44 years","Overall",-66.590149,18.220833
+2014,"ME","Maine","Chronic Kidney Disease","Mortality with end-stage renal disease","Female",-68.9850313359996,45.2542288940005
+2018,"SD","South Dakota","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Asian or Pacific Islander",-100.373530637,44.3531300530005
+2012,"VA","Virginia","Cancer","Invasive melanoma, incidence","Male",-78.4578904629997,37.5426806740005
+2019,"TX","Texas","Alcohol","Chronic liver disease mortality","White, non-Hispanic",-99.4267702059997,31.8272404070005
+2015,"IA","Iowa","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","White, non-Hispanic",-93.8164905559997,42.4694009130005
+2018,"AK","Alaska","Asthma","Current asthma prevalence among adults aged >= 18 years","Multiracial, non-Hispanic",-147.722059036,64.8450799570005
+2015,"SD","South Dakota","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Black, non-Hispanic",-100.373530637,44.3531300530005
+2015,"LA","Louisiana","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Multiracial, non-Hispanic",-92.4456800709997,31.3126606440005
+2015,"AL","Alabama","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Other, non-Hispanic",-86.6318607619997,32.8405711220005
+2011,"DE","Delaware","Cancer","Cancer of the lung and bronchus, incidence","White, non-Hispanic",-75.5777411679996,39.0088306670005
+2016,"LA","Louisiana","Diabetes","Mortality due to diabetes reported as any listed cause of death","Overall",-92.4456800709997,31.3126606440005
+2010,"DC","District of Columbia","Cancer","Cancer of the lung and bronchus, mortality","Male",-77.036871,38.907192
+2012,"IA","Iowa","Overarching Conditions","Recent physically unhealthy days among adults aged >= 18 years","Female",-93.8164905559997,42.4694009130005
+2014,"MT","Montana","Cancer","Cancer of the oral cavity and pharynx, mortality","American Indian or Alaska Native",-109.424420645,47.0665289720005
+2012,"FL","Florida","Diabetes","Influenza vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Multiracial, non-Hispanic",-81.9289605389997,28.9320403770005
+2013,"MD","Maryland","Cancer","Cancer of the colon and rectum (colorectal), incidence","Overall",-76.6092601109996,39.2905809640005
+2011,"HI","Hawaii","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Black, non-Hispanic",-157.857749403,21.3048504350004
+2019,"IL","Illinois","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years","Overall",-88.9977101779997,40.4850102830005
+2011,"ME","Maine","Cardiovascular Disease","Cholesterol screening among adults aged >= 18 years","Black, non-Hispanic",-68.9850313359996,45.2542288940005
+2017,"NV","Nevada","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","Multiracial, non-Hispanic",-117.071840564,39.4932403900005
+2011,"NC","North Carolina","Cardiovascular Disease","Mortality from diseases of the heart","Male",-79.1592504629996,35.4662209750005
+2018,"ID","Idaho","Diabetes","Mortality due to diabetes reported as any listed cause of death","American Indian or Alaska Native",-114.363730042,43.6826300050005
+2012,"KS","Kansas","Cancer","Invasive cancer of the prostate, incidence","Female",-98.2007812269997,38.3477403000005
+2011,"MO","Missouri","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Male",-92.5663000529997,38.6357907760005
+2021,"MD","Maryland","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Other, non-Hispanic",-76.6092601109996,39.2905809640005
+2011,"HI","Hawaii","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","American Indian or Alaska Native",-157.857749403,21.3048504350004
+2021,"CA","California","Overarching Conditions","Recent activity limitation among adults aged >= 18 years","Overall",-120.999999538,37.6386401230005
+2011,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among women aged 18-44 years","Black, non-Hispanic",-77.036871,38.907192
+2019,"MO","Missouri","Diabetes","Foot examination among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-92.5663000529997,38.6357907760005
+2019,"MA","Massachusetts","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","White, non-Hispanic",-72.0826906749996,42.2768704700005
+2011,"IL","Illinois","Diabetes","Mortality due to diabetes reported as any listed cause of death","White, non-Hispanic",-88.9977101779997,40.4850102830005
+2017,"AK","Alaska","Cardiovascular Disease","Mortality from total cardiovascular diseases","Asian or Pacific Islander",-147.722059036,64.8450799570005
+2014,"LA","Louisiana","Older Adults","Proportion of older adults aged 50-64 years who are up to date on a core set of clinical preventive services","Male",-92.4456800709997,31.3126606440005
+2018,"MD","Maryland","Older Adults","Proportion of older adults aged 50-64 years who are up to date on a core set of clinical preventive services","Overall",-76.6092601109996,39.2905809640005
+2017,"MA","Massachusetts","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-72.0826906749996,42.2768704700005
+2018,"NY","New York","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Hispanic",-75.5439704269996,42.8270010320005
+2016,"VA","Virginia","Cardiovascular Disease","Hospitalization for acute myocardial infarction","White, non-Hispanic",-78.4578904629997,37.5426806740005
+2012,"AK","Alaska","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Black, non-Hispanic",-147.722059036,64.8450799570005
+2014,"TX","Texas","Cancer","Invasive melanoma, incidence","Female",-99.4267702059997,31.8272404070005
+2015,"SD","South Dakota","Arthritis","Arthritis among adults aged >= 18 years who are obese","Male",-100.373530637,44.3531300530005
+2020,"KS","Kansas","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Hispanic",-98.2007812269997,38.3477403000005
+2018,"MA","Massachusetts","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Black, non-Hispanic",-72.0826906749996,42.2768704700005
+2016,"NC","North Carolina","Older Adults","Proportion of older adults aged 50-64 years who are up to date on a core set of clinical preventive services","White, non-Hispanic",-79.1592504629996,35.4662209750005
+2016,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Overall",-84.7143902699997,44.6613195430005
+2019,"OR","Oregon","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Multiracial, non-Hispanic",-120.155031326,44.5674494240005
+2017,"TX","Texas","Cardiovascular Disease","Mortality from heart failure","White, non-Hispanic",-99.4267702059997,31.8272404070005
+2015,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Female",-99.3657206229997,41.6410409880005
+2014,"ID","Idaho","Cardiovascular Disease","Mortality from coronary heart disease","Overall",-114.363730042,43.6826300050005
+2020,"PA","Pennsylvania","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Male",-77.8607002939996,40.7937301520005
+2010,"MD","Maryland","Diabetes","Mortality due to diabetes reported as any listed cause of death","Female",-76.6092601109996,39.2905809640005
+2016,"MS","Mississippi","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","Hispanic",-89.5380308249997,32.7455100990005
+2019,"CA","California","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-120.999999538,37.6386401230005
+2012,"MS","Mississippi","Tobacco","Current cigarette smoking among women aged 18-44 years","Overall",-89.5380308249997,32.7455100990005
+2018,"MA","Massachusetts","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","White, non-Hispanic",-72.0826906749996,42.2768704700005
+2016,"MD","Maryland","Diabetes","Adults with diagnosed diabetes aged >= 18 years who have taken a diabetes self-management course","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2017,"NJ","New Jersey","Cardiovascular Disease","High cholesterol prevalence among adults aged >= 18 years","Hispanic",-74.2736912879997,40.1305700480005
+2019,"MN","Minnesota","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Asian or Pacific Islander",-94.7942005029997,46.3556487360005
+2016,"MN","Minnesota","Asthma","Emergency department visit rate for asthma","Black, non-Hispanic",-94.7942005029997,46.3556487360005
+2018,"MT","Montana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","White, non-Hispanic",-109.424420645,47.0665289720005
+2014,"GU","Guam","Oral Health","Six or more teeth lost among adults aged >= 65 years","Male",144.793731,13.444304
+2017,"DC","District of Columbia","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Hispanic",-77.036871,38.907192
+2021,"MA","Massachusetts","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Other, non-Hispanic",-72.0826906749996,42.2768704700005
+2018,"KY","Kentucky","Oral Health","Visits to dentist or dental clinic among adults aged >= 18 years","Overall",-84.7749710479997,37.6459702710005
+2013,"IA","Iowa","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","Other, non-Hispanic",-93.8164905559997,42.4694009130005
+2010,"CA","California","Asthma","Asthma mortality rate","Overall",-120.999999538,37.6386401230005
+2013,"AZ","Arizona","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","Other, non-Hispanic",-111.763811277,34.8659702800005
+2016,"ME","Maine","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Black, non-Hispanic",-68.9850313359996,45.2542288940005
+2018,"MT","Montana","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Hispanic",-109.424420645,47.0665289720005
+2020,"DC","District of Columbia","Asthma","Asthma mortality rate","Asian or Pacific Islander",-77.036871,38.907192
+2020,"LA","Louisiana","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Hispanic",-92.4456800709997,31.3126606440005
+2016,"ME","Maine","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Overall",-68.9850313359996,45.2542288940005
+2020,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Male",-111.763811277,34.8659702800005
+2008,"TX","Texas","Cancer","Cancer of the prostate, mortality","Asian or Pacific Islander",-99.4267702059997,31.8272404070005
+2015,"MN","Minnesota","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","White, non-Hispanic",-94.7942005029997,46.3556487360005
+2021,"MI","Michigan","Arthritis","Arthritis among adults aged >= 18 years","Overall",-84.7143902699997,44.6613195430005
+2015,"MN","Minnesota","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-94.7942005029997,46.3556487360005
+2015,"IN","Indiana","Diabetes","Mortality due to diabetes reported as any listed cause of death","American Indian or Alaska Native",-86.1499601939997,39.7669104520004
+2013,"NY","New York","Cancer","Invasive melanoma, incidence","Male",-75.5439704269996,42.8270010320005
+2012,"NY","New York","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","White, non-Hispanic",-75.5439704269996,42.8270010320005
+2011,"SD","South Dakota","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Male",-100.373530637,44.3531300530005
+2012,"CT","Connecticut","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-72.6498409519996,41.5626610200005
+2016,"RI","Rhode Island","Nutrition, Physical Activity, and Weight Status","No leisure-time physical activity among adults aged >= 18 years","Overall",-71.5224703139996,41.7082801930005
+2014,"UT","Utah","Oral Health","Preventive dental care before pregnancy","Black, non-Hispanic",-111.587130635,39.3607001710005
+2021,"OH","Ohio","Arthritis","Arthritis among adults aged >= 18 years","Overall",-82.4042600559997,40.0602101410005
+2012,"CO","Colorado","Cancer","Cancer of the female cervix, mortality","Male",-106.133610921,38.8438407570005
+2010,"DE","Delaware","Asthma","Asthma mortality rate","American Indian or Alaska Native",-75.5777411679996,39.0088306670005
+2016,"IL","Illinois","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Other, non-Hispanic",-88.9977101779997,40.4850102830005
+2021,"DE","Delaware","Overarching Conditions","Recent physically unhealthy days among adults aged >= 18 years","Other, non-Hispanic",-75.5777411679996,39.0088306670005
+2011,"AR","Arkansas","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","White, non-Hispanic",-92.2744907429997,34.7486501240004
+2013,"OK","Oklahoma","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Hispanic",-97.5210702139997,35.4720313560005
+2014,"CO","Colorado","Cancer","Invasive cancer of the female breast, incidence","Black, non-Hispanic",-106.133610921,38.8438407570005
+2017,"MA","Massachusetts","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","Other, non-Hispanic",-72.0826906749996,42.2768704700005
+2010,"AZ","Arizona","Cardiovascular Disease","Mortality from heart failure","White, non-Hispanic",-111.763811277,34.8659702800005
+2012,"UT","Utah","Alcohol","Chronic liver disease mortality","Overall",-111.587130635,39.3607001710005
+2017,"AR","Arkansas","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-92.2744907429997,34.7486501240004
+2015,"OR","Oregon","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Female",-120.155031326,44.5674494240005
+2021,"OR","Oregon","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Multiracial, non-Hispanic",-120.155031326,44.5674494240005
+2016,"CA","California","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Multiracial, non-Hispanic",-120.999999538,37.6386401230005
+2019,"NV","Nevada","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Female",-117.071840564,39.4932403900005
+2019,"MT","Montana","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Female",-109.424420645,47.0665289720005
+2017,"NM","New Mexico","Asthma","Asthma mortality rate","Asian or Pacific Islander",-106.240580985,34.5208809520005
+2020,"HI","Hawaii","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","White, non-Hispanic",-157.857749403,21.3048504350004
+2010,"FL","Florida","Nutrition, Physical Activity, and Weight Status","State child care regulation supports onsite breastfeeding","Overall",-81.9289605389997,28.9320403770005
+2021,"NE","Nebraska","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","White, non-Hispanic",-99.3657206229997,41.6410409880005
+2018,"MT","Montana","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","Hispanic",-109.424420645,47.0665289720005
+2008,"LA","Louisiana","Cancer","Invasive cancer of the prostate, incidence","Female",-92.4456800709997,31.3126606440005
+2018,"DE","Delaware","Cardiovascular Disease","Mortality from heart failure","White, non-Hispanic",-75.5777411679996,39.0088306670005
+2015,"MD","Maryland","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Overall",-76.6092601109996,39.2905809640005
+2016,"IA","Iowa","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","White, non-Hispanic",-93.8164905559997,42.4694009130005
+2017,"SD","South Dakota","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Multiracial, non-Hispanic",-100.373530637,44.3531300530005
+2013,"TN","Tennessee","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Black, non-Hispanic",-85.7744909139997,35.6809405800005
+2019,"IA","Iowa","Diabetes","Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes","Multiracial, non-Hispanic",-93.8164905559997,42.4694009130005
+2014,"AK","Alaska","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Multiracial, non-Hispanic",-147.722059036,64.8450799570005
+2016,"OR","Oregon","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Overall",-120.155031326,44.5674494240005
+2014,"CA","California","Cardiovascular Disease","Hospitalization for stroke","Female",-120.999999538,37.6386401230005
+2020,"ID","Idaho","Diabetes","Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-114.363730042,43.6826300050005
+2014,"SC","South Carolina","Overarching Conditions","High school completion among adults aged 18-24 years","Overall",-81.0453712069997,33.9988213030005
+2017,"ND","North Dakota","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Hispanic",-100.118421049,47.4753197790005
+2019,"MS","Mississippi","Chronic Kidney Disease","Mortality with end-stage renal disease","American Indian or Alaska Native",-89.5380308249997,32.7455100990005
+2015,"ID","Idaho","Tobacco","Current cigarette smoking among women aged 18-44 years","Hispanic",-114.363730042,43.6826300050005
+2013,"AZ","Arizona","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among women aged 18-44 years","Overall",-111.763811277,34.8659702800005
+2013,"IA","Iowa","Diabetes","Mortality due to diabetes reported as any listed cause of death","American Indian or Alaska Native",-93.8164905559997,42.4694009130005
+2021,"ND","North Dakota","Overarching Conditions","Recent activity limitation among adults aged >= 18 years","White, non-Hispanic",-100.118421049,47.4753197790005
+2016,"CA","California","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Black, non-Hispanic",-120.999999538,37.6386401230005
+2019,"AR","Arkansas","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Male",-92.2744907429997,34.7486501240004
+2020,"KY","Kentucky","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Overall",-84.7749710479997,37.6459702710005
+2013,"OH","Ohio","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Other, non-Hispanic",-82.4042600559997,40.0602101410005
+2014,"DE","Delaware","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Female",-75.5777411679996,39.0088306670005
+2010,"WI","Wisconsin","Cancer","Invasive cancer of the female breast, incidence","White, non-Hispanic",-89.8163707419997,44.3931911740005
+2020,"IN","Indiana","Cancer","Recent Papanicolaou smear use among women aged 21-44 years","White, non-Hispanic",-86.1499601939997,39.7669104520004
+2016,"KS","Kansas","Cardiovascular Disease","Mortality from coronary heart disease","American Indian or Alaska Native",-98.2007812269997,38.3477403000005
+2011,"AL","Alabama","Cardiovascular Disease","High cholesterol prevalence among adults aged >= 18 years","Female",-86.6318607619997,32.8405711220005
+2017,"MD","Maryland","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Hispanic",-76.6092601109996,39.2905809640005
+2016,"MA","Massachusetts","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Other, non-Hispanic",-72.0826906749996,42.2768704700005
+2014,"IL","Illinois","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Multiracial, non-Hispanic",-88.9977101779997,40.4850102830005
+2013,"UT","Utah","Asthma","Asthma mortality rate","Asian or Pacific Islander",-111.587130635,39.3607001710005
+2019,"CT","Connecticut","Overarching Conditions","Premature mortality among adults aged 45-64 years","Overall",-72.6498409519996,41.5626610200005
+2020,"MD","Maryland","Oral Health","Preventive dental care before pregnancy","Overall",-76.6092601109996,39.2905809640005
+2017,"IL","Illinois","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years","Hispanic",-88.9977101779997,40.4850102830005
+2014,"RI","Rhode Island","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Other, non-Hispanic",-71.5224703139996,41.7082801930005
+2017,"NM","New Mexico","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-106.240580985,34.5208809520005
+2016,"LA","Louisiana","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Black, non-Hispanic",-92.4456800709997,31.3126606440005
+2016,"MT","Montana","Cardiovascular Disease","Mortality from heart failure","Female",-109.424420645,47.0665289720005
+2011,"NJ","New Jersey","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Male",-74.2736912879997,40.1305700480005
+2013,"ME","Maine","Cancer","Cancer of the prostate, mortality","Female",-68.9850313359996,45.2542288940005
+2019,"FL","Florida","Overarching Conditions","Poverty among women aged 18-44 years","Overall",-81.9289605389997,28.9320403770005
+2011,"IN","Indiana","Overarching Conditions","High school completion among adults aged 18-24 years","Overall",-86.1499601939997,39.7669104520004
+2013,"MS","Mississippi","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Overall",-89.5380308249997,32.7455100990005
+2012,"WI","Wisconsin","Cancer","Cancer of the colon and rectum (colorectal), mortality","Asian or Pacific Islander",-89.8163707419997,44.3931911740005
+2013,"CT","Connecticut","Cancer","Cancer of the colon and rectum (colorectal), mortality","White, non-Hispanic",-72.6498409519996,41.5626610200005
+2017,"SD","South Dakota","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Hispanic",-100.373530637,44.3531300530005
+2015,"MD","Maryland","Cardiovascular Disease","Mortality from total cardiovascular diseases","Overall",-76.6092601109996,39.2905809640005
+2016,"IA","Iowa","Cardiovascular Disease","Mortality from diseases of the heart","White, non-Hispanic",-93.8164905559997,42.4694009130005
+2020,"OK","Oklahoma","Diabetes","Mortality due to diabetes reported as any listed cause of death","Overall",-97.5210702139997,35.4720313560005
+2017,"IL","Illinois","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Female",-88.9977101779997,40.4850102830005
+2017,"PA","Pennsylvania","Cardiovascular Disease","Awareness of high blood pressure among adults aged >= 18 years","Female",-77.8607002939996,40.7937301520005
+2016,"GA","Georgia","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Male",-83.6275803459997,32.8396810930005
+2012,"ME","Maine","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Male",-68.9850313359996,45.2542288940005
+2011,"PR","Puerto Rico","Overarching Conditions","Recent activity limitation among adults aged >= 18 years","Black, non-Hispanic",-66.590149,18.220833
+2011,"IN","Indiana","Cancer","Invasive cancer (all sites combined), mortality","White, non-Hispanic",-86.1499601939997,39.7669104520004
+2018,"UT","Utah","Cardiovascular Disease","Mortality from coronary heart disease","Overall",-111.587130635,39.3607001710005
+2014,"ND","North Dakota","Tobacco","Current smoking among adults aged >= 18 years","Female",-100.118421049,47.4753197790005
+2015,"ID","Idaho","Diabetes","Mortality due to diabetes reported as any listed cause of death","Male",-114.363730042,43.6826300050005
+2014,"DE","Delaware","Oral Health","Visits to dentist or dental clinic among adults aged >= 18 years","Multiracial, non-Hispanic",-75.5777411679996,39.0088306670005
+2012,"MT","Montana","Alcohol","Chronic liver disease mortality","Overall",-109.424420645,47.0665289720005
+2011,"NC","North Carolina","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","Male",-79.1592504629996,35.4662209750005
+2010,"MS","Mississippi","Diabetes","Mortality due to diabetes reported as any listed cause of death","Male",-89.5380308249997,32.7455100990005
+2015,"WY","Wyoming","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","Female",-108.109830353,43.2355413430005
+2018,"RI","Rhode Island","Asthma","Asthma mortality rate","Overall",-71.5224703139996,41.7082801930005
+2021,"SD","South Dakota","Diabetes","Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes","Overall",-100.373530637,44.3531300530005
+2013,"MS","Mississippi","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years","Female",-89.5380308249997,32.7455100990005
+2014,"NM","New Mexico","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","White, non-Hispanic",-106.240580985,34.5208809520005
+2018,"NJ","New Jersey","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Multiracial, non-Hispanic",-74.2736912879997,40.1305700480005
+2015,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits among adults aged >= 18 years","Overall",-77.036871,38.907192
+2008,"WY","Wyoming","Cancer","Invasive cancer of the prostate, incidence","White, non-Hispanic",-108.109830353,43.2355413430005
+2011,"OH","Ohio","Asthma","Asthma mortality rate","Black, non-Hispanic",-82.4042600559997,40.0602101410005
+2010,"MT","Montana","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Hispanic",-109.424420645,47.0665289720005
+2014,"CA","California","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Male",-120.999999538,37.6386401230005
+2019,"MT","Montana","Cardiovascular Disease","Taking medicine for high blood pressure control among adults aged >= 18 years with high blood pressure","Male",-109.424420645,47.0665289720005
+2018,"KS","Kansas","Diabetes","Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes","Other, non-Hispanic",-98.2007812269997,38.3477403000005
+2015,"WY","Wyoming","Chronic Kidney Disease","Incidence of treated end-stage renal disease","Overall",-108.109830353,43.2355413430005
+2016,"PA","Pennsylvania","Arthritis","Arthritis among adults aged >= 18 years who are obese","Other, non-Hispanic",-77.8607002939996,40.7937301520005
+2017,"NM","New Mexico","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Multiracial, non-Hispanic",-106.240580985,34.5208809520005
+2011,"DE","Delaware","Diabetes","Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes","Other, non-Hispanic",-75.5777411679996,39.0088306670005
+2017,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Other, non-Hispanic",-83.6275803459997,32.8396810930005
+2012,"PR","Puerto Rico","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Other, non-Hispanic",-66.590149,18.220833
+2016,"MD","Maryland","Overarching Conditions","Prevalence of sufficient sleep among adults aged >= 18 years","Male",-76.6092601109996,39.2905809640005
+2011,"PR","Puerto Rico","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Overall",-66.590149,18.220833
+2011,"AR","Arkansas","Asthma","Asthma mortality rate","Black, non-Hispanic",-92.2744907429997,34.7486501240004
+2017,"DE","Delaware","Asthma","Asthma mortality rate","Overall",-75.5777411679996,39.0088306670005
+2021,"IN","Indiana","Diabetes","Diabetes prevalence among women aged 18-44 years","Black, non-Hispanic",-86.1499601939997,39.7669104520004
+2011,"OK","Oklahoma","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","Multiracial, non-Hispanic",-97.5210702139997,35.4720313560005
+2013,"AL","Alabama","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Male",-86.6318607619997,32.8405711220005
+2013,"OK","Oklahoma","Cancer","Invasive cancer of the prostate, incidence","Asian or Pacific Islander",-97.5210702139997,35.4720313560005
+2016,"WV","West Virginia","Asthma","Asthma mortality rate","Hispanic",-80.7126401349997,38.6655102020005
+2017,"ND","North Dakota","Diabetes","Hospitalization with diabetes as a listed diagnosis","White, non-Hispanic",-100.118421049,47.4753197790005
+2015,"KY","Kentucky","Diabetes","Adults with diagnosed diabetes aged >= 18 years who have taken a diabetes self-management course","Other, non-Hispanic",-84.7749710479997,37.6459702710005
+2021,"MS","Mississippi","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","White, non-Hispanic",-89.5380308249997,32.7455100990005
+2020,"ND","North Dakota","Tobacco","Current smoking among adults aged >= 18 years","Overall",-100.118421049,47.4753197790005
+2010,"RI","Rhode Island","Asthma","Asthma mortality rate","Male",-71.5224703139996,41.7082801930005
+2020,"MI","Michigan","Cardiovascular Disease","Mortality from total cardiovascular diseases","Male",-84.7143902699997,44.6613195430005
+2011,"PA","Pennsylvania","Arthritis","Physical inactivity among adults aged >= 18 years with arthritis","Black, non-Hispanic",-77.8607002939996,40.7937301520005
+2013,"CT","Connecticut","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","Female",-72.6498409519996,41.5626610200005
+2018,"AL","Alabama","Cardiovascular Disease","Hospitalization for acute myocardial infarction","Black, non-Hispanic",-86.6318607619997,32.8405711220005
+2019,"AZ","Arizona","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Other, non-Hispanic",-111.763811277,34.8659702800005
+2011,"DE","Delaware","Cancer","Cancer of the colon and rectum (colorectal), incidence","White, non-Hispanic",-75.5777411679996,39.0088306670005
+2018,"MO","Missouri","Cardiovascular Disease","Mortality from total cardiovascular diseases","Female",-92.5663000529997,38.6357907760005
+2011,"MA","Massachusetts","Cancer","Cancer of the prostate, mortality","American Indian or Alaska Native",-72.0826906749996,42.2768704700005
+2015,"AK","Alaska","Diabetes","Amputation of a lower extremity attributable to diabetes","American Indian or Alaska Native",-147.722059036,64.8450799570005
+2016,"ME","Maine","Older Adults","Proportion of older adults aged 50-64 years who are up to date on a core set of clinical preventive services","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2013,"NC","North Carolina","Diabetes","Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes","Female",-79.1592504629996,35.4662209750005
+2016,"NY","New York","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Multiracial, non-Hispanic",-75.5439704269996,42.8270010320005
+2018,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","White, non-Hispanic",-99.3657206229997,41.6410409880005
+2010,"NY","New York","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Hispanic",-75.5439704269996,42.8270010320005
+2018,"MD","Maryland","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","Overall",-76.6092601109996,39.2905809640005
+2017,"OK","Oklahoma","Cardiovascular Disease","Hospitalization for acute myocardial infarction","Male",-97.5210702139997,35.4720313560005
+2015,"ND","North Dakota","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","White, non-Hispanic",-100.118421049,47.4753197790005
+2011,"PA","Pennsylvania","Alcohol","Chronic liver disease mortality","Male",-77.8607002939996,40.7937301520005
+2019,"AK","Alaska","Nutrition, Physical Activity, and Weight Status","Television viewing among high school students","American Indian or Alaska Native",-147.722059036,64.8450799570005
+2018,"IN","Indiana","Older Adults","Proportion of older adults aged >= 65 years who are up to date on a core set of clinical preventive services","Hispanic",-86.1499601939997,39.7669104520004
+2013,"NJ","New Jersey","Cancer","Cancer of the oral cavity and pharynx, mortality","American Indian or Alaska Native",-74.2736912879997,40.1305700480005
+2017,"KS","Kansas","Tobacco","Quit attempts in the past year among current smokers","Multiracial, non-Hispanic",-98.2007812269997,38.3477403000005
+2021,"PR","Puerto Rico","Diabetes","Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes","Other, non-Hispanic",-66.590149,18.220833
+2011,"WY","Wyoming","Cancer","Invasive cancer of the cervix, incidence","White, non-Hispanic",-108.109830353,43.2355413430005
+2018,"OK","Oklahoma","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","White, non-Hispanic",-97.5210702139997,35.4720313560005
+2014,"AL","Alabama","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Other, non-Hispanic",-86.6318607619997,32.8405711220005
+2013,"AL","Alabama","Cancer","Papanicolaou smear use among adult women aged 21-65 years","Overall",-86.6318607619997,32.8405711220005
+2020,"ND","North Dakota","Overarching Conditions","Premature mortality among adults aged 45-64 years","Male",-100.118421049,47.4753197790005
+2014,"FL","Florida","Tobacco","Current smoking among adults aged >= 18 years","Hispanic",-81.9289605389997,28.9320403770005
+2008,"ID","Idaho","Cancer","Cancer of the lung and bronchus, mortality","Female",-114.363730042,43.6826300050005
+2017,"VT","Vermont","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Male",-72.5176407909996,43.6253812390005
+2013,"PA","Pennsylvania","Arthritis","Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis","White, non-Hispanic",-77.8607002939996,40.7937301520005
+2021,"CA","California","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Hispanic",-120.999999538,37.6386401230005
+2013,"UT","Utah","Overarching Conditions","Poverty","Overall",-111.587130635,39.3607001710005
+2016,"RI","Rhode Island","Overarching Conditions","Current lack of health insurance among adults aged 18-64 years","Male",-71.5224703139996,41.7082801930005
+2019,"MI","Michigan","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Black, non-Hispanic",-84.7143902699997,44.6613195430005
+2011,"GU","Guam","Overarching Conditions","Self-rated health status among women aged 18-44 years","White, non-Hispanic",144.793731,13.444304
+2008,"NC","North Carolina","Cancer","Invasive cancer (all sites combined), incidence","American Indian or Alaska Native",-79.1592504629996,35.4662209750005
+2013,"ID","Idaho","Mental Health","At least 14 recent mentally unhealthy days among women aged 18-44 years","White, non-Hispanic",-114.363730042,43.6826300050005
+2010,"ME","Maine","Cancer","Invasive cancer (all sites combined), mortality","Black, non-Hispanic",-68.9850313359996,45.2542288940005
+2020,"HI","Hawaii","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Multiracial, non-Hispanic",-157.857749403,21.3048504350004
+2015,"ME","Maine","Overarching Conditions","Recent physically unhealthy days among adults aged >= 18 years","Hispanic",-68.9850313359996,45.2542288940005
+2012,"CO","Colorado","Oral Health","Six or more teeth lost among adults aged >= 65 years","Multiracial, non-Hispanic",-106.133610921,38.8438407570005
+2012,"CA","California","Diabetes","Mortality due to diabetes reported as any listed cause of death","Hispanic",-120.999999538,37.6386401230005
+2013,"IN","Indiana","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Overall",-86.1499601939997,39.7669104520004
+2010,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","White, non-Hispanic",-99.3657206229997,41.6410409880005
+2010,"CT","Connecticut","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Male",-72.6498409519996,41.5626610200005
+2013,"IL","Illinois","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Hispanic",-88.9977101779997,40.4850102830005
+2012,"NJ","New Jersey","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Female",-74.2736912879997,40.1305700480005
+2016,"ID","Idaho","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Multiracial, non-Hispanic",-114.363730042,43.6826300050005
+2020,"AZ","Arizona","Cancer","Recent Papanicolaou smear use among women aged 21-44 years","Other, non-Hispanic",-111.763811277,34.8659702800005
+2014,"NV","Nevada","Diabetes","Foot examination among adults aged >= 18 years with diagnosed diabetes","Other, non-Hispanic",-117.071840564,39.4932403900005
+2011,"VT","Vermont","Cancer","Cancer of the colon and rectum (colorectal), mortality","White, non-Hispanic",-72.5176407909996,43.6253812390005
+2016,"FL","Florida","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Overall",-81.9289605389997,28.9320403770005
+2010,"IA","Iowa","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","Black, non-Hispanic",-93.8164905559997,42.4694009130005
+2015,"RI","Rhode Island","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-71.5224703139996,41.7082801930005
+2017,"ID","Idaho","Tobacco","Current cigarette smoking among youth","White, non-Hispanic",-114.363730042,43.6826300050005
+2018,"AL","Alabama","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-86.6318607619997,32.8405711220005
+2019,"DC","District of Columbia","Arthritis","Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms","Hispanic",-77.036871,38.907192
+2011,"LA","Louisiana","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Male",-92.4456800709997,31.3126606440005
+2013,"KS","Kansas","Overarching Conditions","Self-rated health status among women aged 18-44 years","Hispanic",-98.2007812269997,38.3477403000005
+2011,"HI","Hawaii","Cardiovascular Disease","Mortality from total cardiovascular diseases","Asian or Pacific Islander",-157.857749403,21.3048504350004
+2020,"OH","Ohio","Arthritis","Arthritis among adults aged >= 18 years who are obese","Male",-82.4042600559997,40.0602101410005
+2014,"IN","Indiana","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Multiracial, non-Hispanic",-86.1499601939997,39.7669104520004
+2013,"NV","Nevada","Cancer","Melanoma, mortality","Male",-117.071840564,39.4932403900005
+2010,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-84.7143902699997,44.6613195430005
+2009,"RI","Rhode Island","Cancer","Cancer of the female breast, mortality","American Indian or Alaska Native",-71.5224703139996,41.7082801930005
+2015,"MN","Minnesota","Cancer","Cancer of the colon and rectum (colorectal), incidence","Male",-94.7942005029997,46.3556487360005
+2015,"DC","District of Columbia","Asthma","Emergency department visit rate for asthma","Female",-77.036871,38.907192
+2015,"PA","Pennsylvania","Alcohol","Binge drinking prevalence among women aged 18-44 years","Black, non-Hispanic",-77.8607002939996,40.7937301520005
+2018,"MD","Maryland","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Multiracial, non-Hispanic",-76.6092601109996,39.2905809640005
+2010,"WA","Washington","Nutrition, Physical Activity, and Weight Status","State child care regulation supports onsite breastfeeding","Overall",-120.47001079,47.5222786290005
+2021,"HI","Hawaii","Arthritis","Arthritis among adults aged >= 18 years who are obese","Hispanic",-157.857749403,21.3048504350004
+2012,"NE","Nebraska","Cardiovascular Disease","Mortality from coronary heart disease","Black, non-Hispanic",-99.3657206229997,41.6410409880005
+2010,"OK","Oklahoma","Cancer","Cancer of the lung and bronchus, incidence","American Indian or Alaska Native",-97.5210702139997,35.4720313560005
+2016,"NV","Nevada","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Other, non-Hispanic",-117.071840564,39.4932403900005
+2018,"LA","Louisiana","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","Male",-92.4456800709997,31.3126606440005
+2013,"IN","Indiana","Asthma","Current asthma prevalence among adults aged >= 18 years","Black, non-Hispanic",-86.1499601939997,39.7669104520004
+2012,"FL","Florida","Diabetes","Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes","Multiracial, non-Hispanic",-81.9289605389997,28.9320403770005
+2011,"MI","Michigan","Diabetes","Prevalence of depressive disorders among adults aged >= 18 years with diagnosed diabetes","White, non-Hispanic",-84.7143902699997,44.6613195430005
+2009,"MT","Montana","Cancer","Cancer of the oral cavity and pharynx, mortality","American Indian or Alaska Native",-109.424420645,47.0665289720005
+2019,"NM","New Mexico","Nutrition, Physical Activity, and Weight Status","Median daily frequency of vegetable consumption among adults aged >= 18 years","Other, non-Hispanic",-106.240580985,34.5208809520005
+2017,"NV","Nevada","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","Hispanic",-117.071840564,39.4932403900005
+2019,"OH","Ohio","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Hispanic",-82.4042600559997,40.0602101410005
+2017,"ND","North Dakota","Alcohol","Alcohol use among youth","Hispanic",-100.118421049,47.4753197790005
+2020,"DC","District of Columbia","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","White, non-Hispanic",-77.036871,38.907192
+2012,"CO","Colorado","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","Female",-106.133610921,38.8438407570005
+2008,"ME","Maine","Cancer","Cancer of the female cervix, mortality","Female",-68.9850313359996,45.2542288940005
+2015,"NJ","New Jersey","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Female",-74.2736912879997,40.1305700480005
+2012,"FL","Florida","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Black, non-Hispanic",-81.9289605389997,28.9320403770005
+2016,"AZ","Arizona","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","White, non-Hispanic",-111.763811277,34.8659702800005
+2018,"DE","Delaware","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Other, non-Hispanic",-75.5777411679996,39.0088306670005
+2021,"HI","Hawaii","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Male",-157.857749403,21.3048504350004
+2013,"ME","Maine","Cancer","Invasive cancer of the cervix, incidence","American Indian or Alaska Native",-68.9850313359996,45.2542288940005
+2012,"IA","Iowa","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Overall",-93.8164905559997,42.4694009130005
+2013,"NV","Nevada","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Black, non-Hispanic",-117.071840564,39.4932403900005
+2015,"ND","North Dakota","Diabetes","Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes","White, non-Hispanic",-100.118421049,47.4753197790005
+2010,"FL","Florida","Asthma","Asthma mortality rate","Black, non-Hispanic",-81.9289605389997,28.9320403770005
+2017,"WY","Wyoming","Nutrition, Physical Activity, and Weight Status","Participation in daily school physical education classes among high school students","Male",-108.109830353,43.2355413430005
+2019,"IN","Indiana","Nutrition, Physical Activity, and Weight Status","Obesity among high school students","White, non-Hispanic",-86.1499601939997,39.7669104520004
+2016,"FL","Florida","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Black, non-Hispanic",-81.9289605389997,28.9320403770005
+2016,"ID","Idaho","Oral Health","Six or more teeth lost among adults aged >= 65 years","Other, non-Hispanic",-114.363730042,43.6826300050005
+2019,"ND","North Dakota","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Other, non-Hispanic",-100.118421049,47.4753197790005
+2016,"OH","Ohio","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-82.4042600559997,40.0602101410005
+2014,"NC","North Carolina","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Overall",-79.1592504629996,35.4662209750005
+2015,"UT","Utah","Diabetes","Mortality due to diabetes reported as any listed cause of death","Overall",-111.587130635,39.3607001710005
+2018,"PA","Pennsylvania","Diabetes","Mortality due to diabetes reported as any listed cause of death","American Indian or Alaska Native",-77.8607002939996,40.7937301520005
+2020,"IA","Iowa","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Hispanic",-93.8164905559997,42.4694009130005
+2021,"GA","Georgia","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","White, non-Hispanic",-83.6275803459997,32.8396810930005
+2014,"MN","Minnesota","Cancer","Cancer of the lung and bronchus, mortality","White, non-Hispanic",-94.7942005029997,46.3556487360005
+2019,"RI","Rhode Island","Asthma","Current asthma prevalence among adults aged >= 18 years","Overall",-71.5224703139996,41.7082801930005
+2018,"AK","Alaska","Cardiovascular Disease","Mortality from heart failure","American Indian or Alaska Native",-147.722059036,64.8450799570005
+2014,"MS","Mississippi","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Multiracial, non-Hispanic",-89.5380308249997,32.7455100990005
+2018,"PA","Pennsylvania","Asthma","Asthma mortality rate","Asian or Pacific Islander",-77.8607002939996,40.7937301520005
+2013,"NM","New Mexico","Chronic Kidney Disease","Incidence of treated end-stage renal disease","Overall",-106.240580985,34.5208809520005
+2016,"ND","North Dakota","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","Overall",-100.118421049,47.4753197790005
+2015,"NV","Nevada","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Female",-117.071840564,39.4932403900005
+2014,"DC","District of Columbia","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Overall",-77.036871,38.907192
+2017,"AK","Alaska","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Overall",-147.722059036,64.8450799570005
+2008,"VT","Vermont","Cancer","Cancer of the oral cavity and pharynx, mortality","Asian or Pacific Islander",-72.5176407909996,43.6253812390005
+2021,"CA","California","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Other, non-Hispanic",-120.999999538,37.6386401230005
+2016,"WA","Washington","Tobacco","States with strong polices that require retail licenses to sell tobacco products","Overall",-120.47001079,47.5222786290005
+2015,"NY","New York","Overarching Conditions","Current lack of health insurance among adults aged 18-64 years","Overall",-75.5439704269996,42.8270010320005
+2014,"ND","North Dakota","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Multiracial, non-Hispanic",-100.118421049,47.4753197790005
+2013,"GU","Guam","Diabetes","Foot examination among adults aged >= 18 years with diagnosed diabetes","Overall",144.793731,13.444304
+2010,"ME","Maine","Cancer","Invasive melanoma, incidence","Male",-68.9850313359996,45.2542288940005
+2017,"CO","Colorado","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Male",-106.133610921,38.8438407570005
+2008,"AL","Alabama","Cancer","Invasive cancer (all sites combined), incidence","Hispanic",-86.6318607619997,32.8405711220005
+2015,"NE","Nebraska","Mental Health","At least 14 recent mentally unhealthy days among women aged 18-44 years","Hispanic",-99.3657206229997,41.6410409880005
+2019,"GU","Guam","Oral Health","Preventive dental visits among children and adolescents aged 1-17 years","Male",144.793731,13.444304
+2012,"MN","Minnesota","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Male",-94.7942005029997,46.3556487360005
+2013,"PA","Pennsylvania","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Multiracial, non-Hispanic",-77.8607002939996,40.7937301520005
+2021,"AK","Alaska","Arthritis","Arthritis among adults aged >= 18 years who are obese","Male",-147.722059036,64.8450799570005
+2008,"IN","Indiana","Cancer","Invasive cancer of the cervix, incidence","Overall",-86.1499601939997,39.7669104520004
+2010,"AK","Alaska","Cancer","Invasive cancer of the prostate, incidence","White, non-Hispanic",-147.722059036,64.8450799570005
+2014,"MO","Missouri","Tobacco","Secondary schools that have a comprehensive tobacco-free school policy in place","Overall",-92.5663000529997,38.6357907760005
+2019,"NV","Nevada","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Male",-117.071840564,39.4932403900005
+2019,"KS","Kansas","Nutrition, Physical Activity, and Weight Status","Television viewing among high school students","Overall",-98.2007812269997,38.3477403000005
+2016,"MS","Mississippi","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Hispanic",-89.5380308249997,32.7455100990005
+2011,"KY","Kentucky","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Male",-84.7749710479997,37.6459702710005
+2012,"MO","Missouri","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Hispanic",-92.5663000529997,38.6357907760005
+2015,"IL","Illinois","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Hispanic",-88.9977101779997,40.4850102830005
+2019,"NH","New Hampshire","Diabetes","Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-71.5003609199997,43.6559501130005
+2020,"GU","Guam","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Hispanic",144.793731,13.444304
+2013,"PA","Pennsylvania","Asthma","Emergency department visit rate for asthma","Female",-77.8607002939996,40.7937301520005
+2017,"LA","Louisiana","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among adults aged >= 18 years","White, non-Hispanic",-92.4456800709997,31.3126606440005
+2018,"AL","Alabama","Diabetes","Mortality due to diabetes reported as any listed cause of death","Asian or Pacific Islander",-86.6318607619997,32.8405711220005
+2015,"WV","West Virginia","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","Hispanic",-80.7126401349997,38.6655102020005
+2011,"OH","Ohio","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Hispanic",-82.4042600559997,40.0602101410005
+2011,"SC","South Carolina","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Male",-81.0453712069997,33.9988213030005
+2012,"IL","Illinois","Tobacco","Current cigarette smoking among women aged 18-44 years","Overall",-88.9977101779997,40.4850102830005
+2019,"LA","Louisiana","Arthritis","Arthritis among adults aged >= 18 years","Overall",-92.4456800709997,31.3126606440005
+2016,"PA","Pennsylvania","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-77.8607002939996,40.7937301520005
+2013,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Overall",-83.6275803459997,32.8396810930005
+2011,"DC","District of Columbia","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Overall",-77.036871,38.907192
+2008,"CA","California","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","American Indian or Alaska Native",-120.999999538,37.6386401230005
+2019,"NY","New York","Overarching Conditions","Self-rated health status among women aged 18-44 years","Black, non-Hispanic",-75.5439704269996,42.8270010320005
+2013,"GU","Guam","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged >= 18 years","Multiracial, non-Hispanic",144.793731,13.444304
+2015,"AL","Alabama","Tobacco","Current smoking among adults aged >= 18 years","White, non-Hispanic",-86.6318607619997,32.8405711220005
+2021,"HI","Hawaii","Nutrition, Physical Activity, and Weight Status","No leisure-time physical activity among adults aged >= 18 years","Hispanic",-157.857749403,21.3048504350004
+2015,"CA","California","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Asian or Pacific Islander",-120.999999538,37.6386401230005
+2013,"UT","Utah","Nutrition, Physical Activity, and Weight Status","Presence of regulations pertaining to serving vegetables in early care and education settings","Overall",-111.587130635,39.3607001710005
+2012,"LA","Louisiana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Male",-92.4456800709997,31.3126606440005
+2012,"DE","Delaware","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Hispanic",-75.5777411679996,39.0088306670005
+2017,"NY","New York","Cardiovascular Disease","High cholesterol prevalence among adults aged >= 18 years","Other, non-Hispanic",-75.5439704269996,42.8270010320005
+2012,"IN","Indiana","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Multiracial, non-Hispanic",-86.1499601939997,39.7669104520004
+2021,"SD","South Dakota","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Female",-100.373530637,44.3531300530005
+2011,"GA","Georgia","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Hispanic",-83.6275803459997,32.8396810930005
+2010,"HI","Hawaii","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","American Indian or Alaska Native",-157.857749403,21.3048504350004
+2019,"AK","Alaska","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Overall",-147.722059036,64.8450799570005
+2017,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Hispanic",-83.6275803459997,32.8396810930005
+2011,"NH","New Hampshire","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Other, non-Hispanic",-71.5003609199997,43.6559501130005
+2013,"SC","South Carolina","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","American Indian or Alaska Native",-81.0453712069997,33.9988213030005
+2010,"NV","Nevada","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Hispanic",-117.071840564,39.4932403900005
+2012,"AR","Arkansas","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Multiracial, non-Hispanic",-92.2744907429997,34.7486501240004
+2014,"AK","Alaska","Diabetes","Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes","Hispanic",-147.722059036,64.8450799570005
+2010,"NV","Nevada","Cardiovascular Disease","Mortality from diseases of the heart","Overall",-117.071840564,39.4932403900005
+2013,"NC","North Carolina","Cancer","Cancer of the colon and rectum (colorectal), mortality","Asian or Pacific Islander",-79.1592504629996,35.4662209750005
+2018,"OR","Oregon","Cardiovascular Disease","Mortality from diseases of the heart","Hispanic",-120.155031326,44.5674494240005
+2016,"MO","Missouri","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Overall",-92.5663000529997,38.6357907760005
+2010,"NM","New Mexico","Cancer","Cancer of the colon and rectum (colorectal), mortality","Black, non-Hispanic",-106.240580985,34.5208809520005
+2011,"VA","Virginia","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","White, non-Hispanic",-78.4578904629997,37.5426806740005
+2009,"MS","Mississippi","Cancer","Invasive cancer (all sites combined), incidence","Hispanic",-89.5380308249997,32.7455100990005
+2019,"PR","Puerto Rico","Asthma","Current asthma prevalence among adults aged >= 18 years","White, non-Hispanic",-66.590149,18.220833
+2020,"NE","Nebraska","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Hispanic",-99.3657206229997,41.6410409880005
+2011,"MS","Mississippi","Cancer","Invasive cancer of the prostate, incidence","Hispanic",-89.5380308249997,32.7455100990005
+2011,"SD","South Dakota","Cancer","Cancer of the oral cavity and pharynx, mortality","Black, non-Hispanic",-100.373530637,44.3531300530005
+2009,"ID","Idaho","Cancer","Invasive cancer of the cervix, incidence","Asian or Pacific Islander",-114.363730042,43.6826300050005
+2011,"AL","Alabama","Cancer","Melanoma, mortality","Hispanic",-86.6318607619997,32.8405711220005
+2014,"VA","Virginia","Cardiovascular Disease","Hospitalization for stroke","Hispanic",-78.4578904629997,37.5426806740005
+2018,"NC","North Carolina","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","Hispanic",-79.1592504629996,35.4662209750005
+2013,"ND","North Dakota","Cardiovascular Disease","Mortality from heart failure","Hispanic",-100.118421049,47.4753197790005
+2018,"AK","Alaska","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Other, non-Hispanic",-147.722059036,64.8450799570005
+2010,"HI","Hawaii","Alcohol","Chronic liver disease mortality","Overall",-157.857749403,21.3048504350004
+2012,"IA","Iowa","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","White, non-Hispanic",-93.8164905559997,42.4694009130005
+2011,"IL","Illinois","Chronic Kidney Disease","Mortality with end-stage renal disease","Overall",-88.9977101779997,40.4850102830005
+2020,"IN","Indiana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-86.1499601939997,39.7669104520004
+2017,"NH","New Hampshire","Overarching Conditions","Self-rated health status among women aged 18-44 years","Multiracial, non-Hispanic",-71.5003609199997,43.6559501130005
+2013,"OH","Ohio","Cancer","Cancer of the female cervix, mortality","Black, non-Hispanic",-82.4042600559997,40.0602101410005
+2019,"MI","Michigan","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Other, non-Hispanic",-84.7143902699997,44.6613195430005
+2010,"RI","Rhode Island","Diabetes","Prevalence of gestational diabetes","Overall",-71.5224703139996,41.7082801930005
+2013,"WY","Wyoming","Cardiovascular Disease","Mortality from heart failure","Hispanic",-108.109830353,43.2355413430005
+2016,"CT","Connecticut","Overarching Conditions","Premature mortality among adults aged 45-64 years","Black, non-Hispanic",-72.6498409519996,41.5626610200005
+2019,"KY","Kentucky","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Black, non-Hispanic",-84.7749710479997,37.6459702710005
+2011,"CT","Connecticut","Cancer","Cancer of the lung and bronchus, incidence","Female",-72.6498409519996,41.5626610200005
+2015,"OK","Oklahoma","Cancer","Cancer of the colon and rectum (colorectal), mortality","Black, non-Hispanic",-97.5210702139997,35.4720313560005
+2018,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Multiracial, non-Hispanic",-77.036871,38.907192
+2018,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","White, non-Hispanic",-111.763811277,34.8659702800005
+2018,"VT","Vermont","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Male",-72.5176407909996,43.6253812390005
+2017,"NC","North Carolina","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Asian or Pacific Islander",-79.1592504629996,35.4662209750005
+2014,"FL","Florida","Cancer","Invasive cancer of the female breast, incidence","Female",-81.9289605389997,28.9320403770005
+2013,"PR","Puerto Rico","Arthritis","Arthritis among adults aged >= 18 years","Multiracial, non-Hispanic",-66.590149,18.220833
+2013,"NJ","New Jersey","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Multiracial, non-Hispanic",-74.2736912879997,40.1305700480005
+2019,"KS","Kansas","Tobacco","Current cigarette smoking among youth","Black, non-Hispanic",-98.2007812269997,38.3477403000005
+2013,"ND","North Dakota","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Multiracial, non-Hispanic",-100.118421049,47.4753197790005
+2013,"IN","Indiana","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged >= 18 years","Black, non-Hispanic",-86.1499601939997,39.7669104520004
+2020,"NJ","New Jersey","Alcohol","Chronic liver disease mortality","Asian or Pacific Islander",-74.2736912879997,40.1305700480005
+2016,"OK","Oklahoma","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Female",-97.5210702139997,35.4720313560005
+2019,"CA","California","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Asian or Pacific Islander",-120.999999538,37.6386401230005
+2015,"CT","Connecticut","Asthma","Asthma mortality rate","Hispanic",-72.6498409519996,41.5626610200005
+2013,"WA","Washington","Overarching Conditions","High school completion among women aged 18-44 years","Overall",-120.47001079,47.5222786290005
+2020,"VT","Vermont","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-72.5176407909996,43.6253812390005
+2018,"AZ","Arizona","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Male",-111.763811277,34.8659702800005
+2014,"WV","West Virginia","Cancer","Cancer of the prostate, mortality","White, non-Hispanic",-80.7126401349997,38.6655102020005
+2012,"AK","Alaska","Cardiovascular Disease","Mortality from heart failure","Female",-147.722059036,64.8450799570005
+2012,"KY","Kentucky","Cancer","Cancer of the colon and rectum (colorectal), mortality","Female",-84.7749710479997,37.6459702710005
+2018,"NJ","New Jersey","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Asian or Pacific Islander",-74.2736912879997,40.1305700480005
+2010,"WY","Wyoming","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","White, non-Hispanic",-108.109830353,43.2355413430005
+2018,"SC","South Carolina","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Hispanic",-81.0453712069997,33.9988213030005
+2013,"DC","District of Columbia","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Black, non-Hispanic",-77.036871,38.907192
+2011,"AZ","Arizona","Cancer","Cancer of the colon and rectum (colorectal), incidence","Black, non-Hispanic",-111.763811277,34.8659702800005
+2013,"UT","Utah","Cancer","Invasive cancer (all sites combined), mortality","Black, non-Hispanic",-111.587130635,39.3607001710005
+2015,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Computer use among high school students","Female",-77.036871,38.907192
+2016,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Hispanic",-83.6275803459997,32.8396810930005
+2021,"MS","Mississippi","Tobacco","Quit attempts in the past year among current smokers","Black, non-Hispanic",-89.5380308249997,32.7455100990005
+2013,"MS","Mississippi","Cancer","Invasive melanoma, incidence","Overall",-89.5380308249997,32.7455100990005
+2019,"DE","Delaware","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","Hispanic",-75.5777411679996,39.0088306670005
+2012,"VT","Vermont","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Black, non-Hispanic",-72.5176407909996,43.6253812390005
+2016,"NY","New York","Cardiovascular Disease","Mortality from heart failure","Overall",-75.5439704269996,42.8270010320005
+2014,"CT","Connecticut","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Black, non-Hispanic",-72.6498409519996,41.5626610200005
+2017,"GA","Georgia","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","White, non-Hispanic",-83.6275803459997,32.8396810930005
+2021,"ND","North Dakota","Alcohol","Heavy drinking among adults aged >= 18 years","Female",-100.118421049,47.4753197790005
+2014,"CO","Colorado","Asthma","Hospitalizations for asthma","Asian or Pacific Islander",-106.133610921,38.8438407570005
+2012,"OR","Oregon","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Hispanic",-120.155031326,44.5674494240005
+2012,"NH","New Hampshire","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Overall",-71.5003609199997,43.6559501130005
+2010,"MD","Maryland","Asthma","Asthma mortality rate","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2017,"OH","Ohio","Cardiovascular Disease","Cholesterol screening among adults aged >= 18 years","Male",-82.4042600559997,40.0602101410005
+2020,"CT","Connecticut","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Female",-72.6498409519996,41.5626610200005
+2018,"GU","Guam","Asthma","Current asthma prevalence among adults aged >= 18 years","Female",144.793731,13.444304
+2013,"PA","Pennsylvania","Alcohol","Chronic liver disease mortality","Female",-77.8607002939996,40.7937301520005
+2015,"CA","California","Cancer","Cancer of the prostate, mortality","Female",-120.999999538,37.6386401230005
+2018,"KY","Kentucky","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Female",-84.7749710479997,37.6459702710005
+2017,"NJ","New Jersey","Diabetes","Mortality due to diabetes reported as any listed cause of death","Black, non-Hispanic",-74.2736912879997,40.1305700480005
+2013,"AK","Alaska","Arthritis","Activity limitation due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis","Black, non-Hispanic",-147.722059036,64.8450799570005
+2020,"MD","Maryland","Diabetes","Mortality due to diabetes reported as any listed cause of death","Male",-76.6092601109996,39.2905809640005
+2017,"GA","Georgia","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Female",-83.6275803459997,32.8396810930005
+2012,"TN","Tennessee","Cancer","Cancer of the oral cavity and pharynx, mortality","American Indian or Alaska Native",-85.7744909139997,35.6809405800005
+2014,"MT","Montana","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Overall",-109.424420645,47.0665289720005
+2010,"OH","Ohio","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years","Black, non-Hispanic",-82.4042600559997,40.0602101410005
+2011,"IL","Illinois","Alcohol","Heavy drinking among adults aged >= 18 years","Other, non-Hispanic",-88.9977101779997,40.4850102830005
+2014,"ME","Maine","Immunization","Influenza vaccination among noninstitutionalized adults aged >= 18 years","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2008,"OH","Ohio","Cancer","Invasive cancer (all sites combined), incidence","Hispanic",-82.4042600559997,40.0602101410005
+2008,"MT","Montana","Cancer","Cancer of the prostate, mortality","Hispanic",-109.424420645,47.0665289720005
+2017,"MD","Maryland","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke","Male",-76.6092601109996,39.2905809640005
+2012,"CA","California","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Black, non-Hispanic",-120.999999538,37.6386401230005
+2014,"MD","Maryland","Cancer","Cancer of the female breast, mortality","Overall",-76.6092601109996,39.2905809640005
+2011,"WA","Washington","Cancer","Cancer of the lung and bronchus, incidence","Asian or Pacific Islander",-120.47001079,47.5222786290005
+2012,"OK","Oklahoma","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Other, non-Hispanic",-97.5210702139997,35.4720313560005
+2016,"TN","Tennessee","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Male",-85.7744909139997,35.6809405800005
+2016,"NH","New Hampshire","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Overall",-71.5003609199997,43.6559501130005
+2012,"DE","Delaware","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Hispanic",-75.5777411679996,39.0088306670005
+2020,"MD","Maryland","Alcohol","Per capita alcohol consumption among persons aged >= 14 years","Overall",-76.6092601109996,39.2905809640005
+2019,"CO","Colorado","Asthma","Asthma mortality rate","American Indian or Alaska Native",-106.133610921,38.8438407570005
+2014,"UT","Utah","Diabetes","Amputation of a lower extremity attributable to diabetes","White, non-Hispanic",-111.587130635,39.3607001710005
+2014,"KS","Kansas","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-98.2007812269997,38.3477403000005
+2014,"AL","Alabama","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among adults aged >= 18 years","Female",-86.6318607619997,32.8405711220005
+2017,"ID","Idaho","Older Adults","Prevalence of 2 or more chronic conditions among Medicare-enrolled persons aged >= 65 years","American Indian or Alaska Native",-114.363730042,43.6826300050005
+2018,"MO","Missouri","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","White, non-Hispanic",-92.5663000529997,38.6357907760005
+2020,"NE","Nebraska","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Hispanic",-99.3657206229997,41.6410409880005
+2016,"NM","New Mexico","Disability","Disability among adults aged >= 65 years","Male",-106.240580985,34.5208809520005
+2011,"CT","Connecticut","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Hispanic",-72.6498409519996,41.5626610200005
+2014,"CT","Connecticut","Asthma","Hospitalizations for asthma","Overall",-72.6498409519996,41.5626610200005
+2015,"IN","Indiana","Alcohol","Heavy drinking among adults aged >= 18 years","Overall",-86.1499601939997,39.7669104520004
+2011,"MS","Mississippi","Asthma","Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma","White, non-Hispanic",-89.5380308249997,32.7455100990005
+2020,"LA","Louisiana","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among adults aged >= 18 years","Female",-92.4456800709997,31.3126606440005
+2014,"WI","Wisconsin","Older Adults","Prevalence of 2 or more chronic conditions among Medicare-enrolled persons aged >= 65 years","Black, non-Hispanic",-89.8163707419997,44.3931911740005
+2014,"IA","Iowa","Diabetes","Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-93.8164905559997,42.4694009130005
+2014,"MS","Mississippi","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Hispanic",-89.5380308249997,32.7455100990005
+2017,"ND","North Dakota","Nutrition, Physical Activity, and Weight Status","Obesity among high school students","Hispanic",-100.118421049,47.4753197790005
+2019,"CO","Colorado","Immunization","Influenza vaccination among noninstitutionalized adults aged >= 18 years","Black, non-Hispanic",-106.133610921,38.8438407570005
+2008,"OR","Oregon","Cancer","Cancer of the colon and rectum (colorectal), incidence","Asian or Pacific Islander",-120.155031326,44.5674494240005
+2014,"IL","Illinois","Cancer","Cancer of the lung and bronchus, incidence","Hispanic",-88.9977101779997,40.4850102830005
+2011,"RI","Rhode Island","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Female",-71.5224703139996,41.7082801930005
+2016,"HI","Hawaii","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among adults aged >= 18 years","Multiracial, non-Hispanic",-157.857749403,21.3048504350004
+2013,"PA","Pennsylvania","Nutrition, Physical Activity, and Weight Status","Median daily frequency of fruit consumption among adults aged >= 18 years","Male",-77.8607002939996,40.7937301520005
+2016,"CA","California","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","White, non-Hispanic",-120.999999538,37.6386401230005
+2015,"ID","Idaho","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","White, non-Hispanic",-114.363730042,43.6826300050005
+2013,"NC","North Carolina","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Black, non-Hispanic",-79.1592504629996,35.4662209750005
+2012,"WV","West Virginia","Chronic Kidney Disease","Incidence of treated end-stage renal disease attributed to diabetes","Overall",-80.7126401349997,38.6655102020005
+2020,"NM","New Mexico","Arthritis","Arthritis among adults aged >= 18 years who have diabetes","Black, non-Hispanic",-106.240580985,34.5208809520005
+2020,"DE","Delaware","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Multiracial, non-Hispanic",-75.5777411679996,39.0088306670005
+2012,"WI","Wisconsin","Diabetes","Mortality due to diabetes reported as any listed cause of death","American Indian or Alaska Native",-89.8163707419997,44.3931911740005
+2012,"NJ","New Jersey","Cancer","Invasive cancer of the cervix, incidence","American Indian or Alaska Native",-74.2736912879997,40.1305700480005
+2015,"SC","South Carolina","Arthritis","Arthritis among adults aged >= 18 years","Hispanic",-81.0453712069997,33.9988213030005
+2015,"CO","Colorado","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","White, non-Hispanic",-106.133610921,38.8438407570005
+2017,"MA","Massachusetts","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Other, non-Hispanic",-72.0826906749996,42.2768704700005
+2019,"IL","Illinois","Overarching Conditions","Premature mortality among adults aged 45-64 years","Male",-88.9977101779997,40.4850102830005
+2015,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Black, non-Hispanic",-83.6275803459997,32.8396810930005
+2014,"IN","Indiana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Female",-86.1499601939997,39.7669104520004
+2020,"ME","Maine","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2011,"OK","Oklahoma","Asthma","Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma","Black, non-Hispanic",-97.5210702139997,35.4720313560005
+2014,"CT","Connecticut","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","Male",-72.6498409519996,41.5626610200005
+2020,"NH","New Hampshire","Oral Health","Six or more teeth lost among adults aged >= 65 years","Multiracial, non-Hispanic",-71.5003609199997,43.6559501130005
+2008,"WA","Washington","Cancer","Cancer of the female breast, mortality","Hispanic",-120.47001079,47.5222786290005
+2015,"RI","Rhode Island","Alcohol","Heavy drinking among women aged 18-44 years","Overall",-71.5224703139996,41.7082801930005
+2015,"WA","Washington","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Asian or Pacific Islander",-120.47001079,47.5222786290005
+2012,"SC","South Carolina","Overarching Conditions","Gini Index of income inequality","Overall",-81.0453712069997,33.9988213030005
+2011,"RI","Rhode Island","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Asian or Pacific Islander",-71.5224703139996,41.7082801930005
+2018,"PA","Pennsylvania","Asthma","Current asthma prevalence among adults aged >= 18 years","Male",-77.8607002939996,40.7937301520005
+2008,"NY","New York","Cancer","Invasive cancer of the cervix, incidence","Hispanic",-75.5439704269996,42.8270010320005
+2017,"VT","Vermont","Tobacco","Current cigarette smoking among youth","Male",-72.5176407909996,43.6253812390005
+2014,"IL","Illinois","Cardiovascular Disease","Mortality from heart failure","Hispanic",-88.9977101779997,40.4850102830005
+2019,"ND","North Dakota","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Male",-100.118421049,47.4753197790005
+2019,"OR","Oregon","Chronic Obstructive Pulmonary Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Hispanic",-120.155031326,44.5674494240005
+2014,"CT","Connecticut","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Overall",-72.6498409519996,41.5626610200005
+2014,"ME","Maine","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2015,"WY","Wyoming","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines among high school students","Overall",-108.109830353,43.2355413430005
+2018,"MI","Michigan","Cardiovascular Disease","Hospitalization for acute myocardial infarction","Hispanic",-84.7143902699997,44.6613195430005
+2020,"DC","District of Columbia","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Multiracial, non-Hispanic",-77.036871,38.907192
+2018,"IL","Illinois","Cardiovascular Disease","Hospitalization for stroke","Black, non-Hispanic",-88.9977101779997,40.4850102830005
+2014,"MA","Massachusetts","Cancer","Papanicolaou smear use among adult women aged 21-65 years","Multiracial, non-Hispanic",-72.0826906749996,42.2768704700005
+2014,"VA","Virginia","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","American Indian or Alaska Native",-78.4578904629997,37.5426806740005
+2016,"ND","North Dakota","Cardiovascular Disease","Mortality from coronary heart disease","Asian or Pacific Islander",-100.118421049,47.4753197790005
+2019,"KS","Kansas","Oral Health","Preventive dental visits among children and adolescents aged 1-17 years","Female",-98.2007812269997,38.3477403000005
+2014,"RI","Rhode Island","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among women aged 18-44 years","Black, non-Hispanic",-71.5224703139996,41.7082801930005
+2016,"NH","New Hampshire","Nutrition, Physical Activity, and Weight Status","No leisure-time physical activity among adults aged >= 18 years","Hispanic",-71.5003609199997,43.6559501130005
+2019,"CO","Colorado","Tobacco","Current cigarette smoking among women aged 18-44 years","Other, non-Hispanic",-106.133610921,38.8438407570005
+2014,"MO","Missouri","Cardiovascular Disease","Mortality from cerebrovascular disease (stroke)","Hispanic",-92.5663000529997,38.6357907760005
+2019,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Female",-99.3657206229997,41.6410409880005
+2017,"NE","Nebraska","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Other, non-Hispanic",-99.3657206229997,41.6410409880005
+2018,"PA","Pennsylvania","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Black, non-Hispanic",-77.8607002939996,40.7937301520005
+2015,"IN","Indiana","Overarching Conditions","Premature mortality among adults aged 45-64 years","Female",-86.1499601939997,39.7669104520004
+2014,"SD","South Dakota","Cancer","Cancer of the oral cavity and pharynx, mortality","Overall",-100.373530637,44.3531300530005
+2015,"MT","Montana","Alcohol","Heavy drinking among adults aged >= 18 years","Overall",-109.424420645,47.0665289720005
+2010,"IN","Indiana","Cancer","Cancer of the colon and rectum (colorectal), incidence","Asian or Pacific Islander",-86.1499601939997,39.7669104520004
+2019,"KS","Kansas","Arthritis","Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis","Hispanic",-98.2007812269997,38.3477403000005
+2017,"MN","Minnesota","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Black, non-Hispanic",-94.7942005029997,46.3556487360005
+2020,"ND","North Dakota","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Female",-100.118421049,47.4753197790005
+2011,"WV","West Virginia","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Hispanic",-80.7126401349997,38.6655102020005
+2016,"MS","Mississippi","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","Overall",-89.5380308249997,32.7455100990005
+2015,"MA","Massachusetts","Overarching Conditions","Premature mortality among adults aged 45-64 years","Asian or Pacific Islander",-72.0826906749996,42.2768704700005
+2014,"AR","Arkansas","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease","White, non-Hispanic",-92.2744907429997,34.7486501240004
+2016,"MO","Missouri","Diabetes","Mortality due to diabetes reported as any listed cause of death","Overall",-92.5663000529997,38.6357907760005
+2019,"GA","Georgia","Cardiovascular Disease","Mortality from coronary heart disease","Overall",-83.6275803459997,32.8396810930005
+2018,"MA","Massachusetts","Asthma","Emergency department visit rate for asthma","Female",-72.0826906749996,42.2768704700005
+2012,"NY","New York","Cancer","Invasive cancer of the prostate, incidence","Asian or Pacific Islander",-75.5439704269996,42.8270010320005
+2019,"OH","Ohio","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Male",-82.4042600559997,40.0602101410005
+2008,"SC","South Carolina","Cancer","Invasive melanoma, incidence","Male",-81.0453712069997,33.9988213030005
+2015,"ME","Maine","Asthma","Asthma mortality rate","White, non-Hispanic",-68.9850313359996,45.2542288940005
+2016,"ME","Maine","Overarching Conditions","Self-rated health status among women aged 18-44 years","Multiracial, non-Hispanic",-68.9850313359996,45.2542288940005
+2008,"NM","New Mexico","Cancer","Cancer of the oral cavity and pharynx, mortality","American Indian or Alaska Native",-106.240580985,34.5208809520005
+2021,"AK","Alaska","Arthritis","Physical inactivity among adults aged >= 18 years with arthritis","Black, non-Hispanic",-147.722059036,64.8450799570005
+2017,"NV","Nevada","Cardiovascular Disease","Mortality from total cardiovascular diseases","Asian or Pacific Islander",-117.071840564,39.4932403900005
+2015,"ME","Maine","Nutrition, Physical Activity, and Weight Status","Obesity among adults aged >= 18 years","Hispanic",-68.9850313359996,45.2542288940005
+2014,"NC","North Carolina","Diabetes","Amputation of a lower extremity attributable to diabetes","Female",-79.1592504629996,35.4662209750005
+2015,"NH","New Hampshire","Cancer","Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years","Other, non-Hispanic",-71.5003609199997,43.6559501130005
+2019,"OK","Oklahoma","Overarching Conditions","Recent physically unhealthy days among adults aged >= 18 years","Black, non-Hispanic",-97.5210702139997,35.4720313560005
+2018,"NE","Nebraska","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease","Multiracial, non-Hispanic",-99.3657206229997,41.6410409880005
+2010,"WV","West Virginia","Cardiovascular Disease","Mortality from diseases of the heart","Male",-80.7126401349997,38.6655102020005
+2015,"CA","California","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Female",-120.999999538,37.6386401230005
+2012,"MN","Minnesota","Chronic Obstructive Pulmonary Disease","Influenza vaccination among noninstitutionalized adults aged >= 45 years with chronic obstructive pulmonary disease","Male",-94.7942005029997,46.3556487360005
+2019,"MN","Minnesota","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Black, non-Hispanic",-94.7942005029997,46.3556487360005
+2011,"MT","Montana","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Overall",-109.424420645,47.0665289720005
+2013,"MO","Missouri","Cardiovascular Disease","Mortality from total cardiovascular diseases","Black, non-Hispanic",-92.5663000529997,38.6357907760005
+2013,"MI","Michigan","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Hispanic",-84.7143902699997,44.6613195430005
+2012,"MN","Minnesota","Asthma","Asthma mortality rate","Female",-94.7942005029997,46.3556487360005
+2014,"MD","Maryland","Asthma","Asthma mortality rate","Asian or Pacific Islander",-76.6092601109996,39.2905809640005
+2019,"NC","North Carolina","Diabetes","Influenza vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Hispanic",-79.1592504629996,35.4662209750005
+2019,"VI","Virgin Islands","Nutrition, Physical Activity, and Weight Status","Number of farmers markets per 100,000 residents","Overall",-64.896335,18.335765
+2015,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Participation in daily school physical education classes among high school students","Black, non-Hispanic",-77.036871,38.907192
+2015,"NM","New Mexico","Asthma","Emergency department visit rate for asthma","White, non-Hispanic",-106.240580985,34.5208809520005
+2015,"NC","North Carolina","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","White, non-Hispanic",-79.1592504629996,35.4662209750005
+2013,"GA","Georgia","Nutrition, Physical Activity, and Weight Status","Overweight or obesity among women aged 18-44 years","Black, non-Hispanic",-83.6275803459997,32.8396810930005
+2013,"AK","Alaska","Alcohol","Heavy drinking among women aged 18-44 years","Other, non-Hispanic",-147.722059036,64.8450799570005
+2011,"SC","South Carolina","Cancer","Cancer of the female cervix, mortality","Hispanic",-81.0453712069997,33.9988213030005
+2020,"NJ","New Jersey","Diabetes","Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Female",-74.2736912879997,40.1305700480005
+2013,"MD","Maryland","Asthma","Asthma mortality rate","Hispanic",-76.6092601109996,39.2905809640005
+2011,"MD","Maryland","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Multiracial, non-Hispanic",-76.6092601109996,39.2905809640005
+2016,"AK","Alaska","Asthma","Current asthma prevalence among adults aged >= 18 years","Other, non-Hispanic",-147.722059036,64.8450799570005
+2011,"WY","Wyoming","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","White, non-Hispanic",-108.109830353,43.2355413430005
+2018,"VT","Vermont","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Overall",-72.5176407909996,43.6253812390005
+2011,"CO","Colorado","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Other, non-Hispanic",-106.133610921,38.8438407570005
+2011,"ND","North Dakota","Diabetes","Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes","Black, non-Hispanic",-100.118421049,47.4753197790005
+2011,"ME","Maine","Arthritis","Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis","Overall",-68.9850313359996,45.2542288940005
+2016,"SC","South Carolina","Oral Health","All teeth lost among adults aged >= 65 years","Other, non-Hispanic",-81.0453712069997,33.9988213030005
+2016,"VA","Virginia","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Asian or Pacific Islander",-78.4578904629997,37.5426806740005
+2012,"MI","Michigan","Tobacco","Current cigarette smoking among women aged 18-44 years","Hispanic",-84.7143902699997,44.6613195430005
+2018,"OR","Oregon","Tobacco","Cigarette smoking before pregnancy","Overall",-120.155031326,44.5674494240005
+2012,"DC","District of Columbia","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","Hispanic",-77.036871,38.907192
+2015,"IL","Illinois","Cancer","Cancer of the colon and rectum (colorectal), incidence","Female",-88.9977101779997,40.4850102830005
+2013,"KS","Kansas","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","Female",-98.2007812269997,38.3477403000005
+2010,"WI","Wisconsin","Cardiovascular Disease","Hospitalization for acute myocardial infarction","Asian or Pacific Islander",-89.8163707419997,44.3931911740005
+2011,"GA","Georgia","Overarching Conditions","Premature mortality among adults aged 45-64 years","Male",-83.6275803459997,32.8396810930005
+2017,"PA","Pennsylvania","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","White, non-Hispanic",-77.8607002939996,40.7937301520005
+2014,"MI","Michigan","Arthritis","Fair or poor health among adults aged >= 18 years with arthritis","Overall",-84.7143902699997,44.6613195430005
+2015,"AK","Alaska","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","Asian or Pacific Islander",-147.722059036,64.8450799570005
+2019,"SC","South Carolina","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Hispanic",-81.0453712069997,33.9988213030005
+2017,"CA","California","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Asian or Pacific Islander",-120.999999538,37.6386401230005
+2016,"CT","Connecticut","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Overall",-72.6498409519996,41.5626610200005
+2020,"MI","Michigan","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-84.7143902699997,44.6613195430005
+2018,"UT","Utah","Cardiovascular Disease","Mortality from coronary heart disease","Male",-111.587130635,39.3607001710005
+2014,"SD","South Dakota","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-100.373530637,44.3531300530005
+2018,"DC","District of Columbia","Asthma","Asthma mortality rate","Black, non-Hispanic",-77.036871,38.907192
+2017,"PR","Puerto Rico","Nutrition, Physical Activity, and Weight Status","Computer use among high school students","Overall",-66.590149,18.220833
+2016,"RI","Rhode Island","Chronic Kidney Disease","Prevalence of chronic kidney disease among adults aged >= 18 years","Hispanic",-71.5224703139996,41.7082801930005
+2017,"OK","Oklahoma","Diabetes","Prevalence of diagnosed diabetes among adults aged >= 18 years","White, non-Hispanic",-97.5210702139997,35.4720313560005
+2012,"CO","Colorado","Cancer","Cancer of the lung and bronchus, mortality","White, non-Hispanic",-106.133610921,38.8438407570005
+2021,"MT","Montana","Arthritis","Physical inactivity among adults aged >= 18 years with arthritis","Multiracial, non-Hispanic",-109.424420645,47.0665289720005
+2015,"NY","New York","Reproductive Health","Postpartum checkup","Other, non-Hispanic",-75.5439704269996,42.8270010320005
+2011,"MN","Minnesota","Cancer","Cancer of the female cervix, mortality","American Indian or Alaska Native",-94.7942005029997,46.3556487360005
+2015,"MS","Mississippi","Tobacco","Current cigarette smoking among women aged 18-44 years","Other, non-Hispanic",-89.5380308249997,32.7455100990005
+2020,"GA","Georgia","Arthritis","Arthritis among adults aged >= 18 years who are obese","White, non-Hispanic",-83.6275803459997,32.8396810930005
+2017,"WA","Washington","Asthma","Emergency department visit rate for asthma","Overall",-120.47001079,47.5222786290005
+2017,"PA","Pennsylvania","Arthritis","Arthritis among adults aged >= 18 years","Other, non-Hispanic",-77.8607002939996,40.7937301520005
+2009,"KY","Kentucky","Cancer","Invasive cancer of the oral cavity or pharynx, incidence","Hispanic",-84.7749710479997,37.6459702710005
+2014,"MI","Michigan","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Hispanic",-84.7143902699997,44.6613195430005
+2017,"AL","Alabama","Cardiovascular Disease","Hospitalization for acute myocardial infarction","White, non-Hispanic",-86.6318607619997,32.8405711220005
+2009,"UT","Utah","Cancer","Invasive cancer of the female breast, incidence","Male",-111.587130635,39.3607001710005
+2018,"MO","Missouri","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","White, non-Hispanic",-92.5663000529997,38.6357907760005
+2015,"GA","Georgia","Cancer","Cancer of the lung and bronchus, mortality","Hispanic",-83.6275803459997,32.8396810930005
+2011,"IN","Indiana","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Hispanic",-86.1499601939997,39.7669104520004
+2014,"ID","Idaho","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Other, non-Hispanic",-114.363730042,43.6826300050005
+2012,"OH","Ohio","Overarching Conditions","Current lack of health insurance among adults aged 18-64 years","Hispanic",-82.4042600559997,40.0602101410005
+2018,"WI","Wisconsin","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis","Hispanic",-89.8163707419997,44.3931911740005
+2012,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Hispanic",-83.6275803459997,32.8396810930005
+2010,"TX","Texas","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Overall",-99.4267702059997,31.8272404070005
+2018,"IL","Illinois","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Hispanic",-88.9977101779997,40.4850102830005
+2013,"LA","Louisiana","Overarching Conditions","Self-rated health status among women aged 18-44 years","Hispanic",-92.4456800709997,31.3126606440005
+2012,"MN","Minnesota","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Multiracial, non-Hispanic",-94.7942005029997,46.3556487360005
+2014,"ID","Idaho","Oral Health","Six or more teeth lost among adults aged >= 65 years","Overall",-114.363730042,43.6826300050005
+2017,"VA","Virginia","Cardiovascular Disease","Mortality from coronary heart disease","American Indian or Alaska Native",-78.4578904629997,37.5426806740005
+2016,"WV","West Virginia","Overarching Conditions","Premature mortality among adults aged 45-64 years","Female",-80.7126401349997,38.6655102020005
+2015,"SC","South Carolina","Cancer","Melanoma, mortality","White, non-Hispanic",-81.0453712069997,33.9988213030005
+2017,"NH","New Hampshire","Cardiovascular Disease","Hospitalization for stroke","Black, non-Hispanic",-71.5003609199997,43.6559501130005
+2012,"FL","Florida","Oral Health","Six or more teeth lost among adults aged >= 65 years","Overall",-81.9289605389997,28.9320403770005
+2010,"OH","Ohio","Cancer","Invasive cancer (all sites combined), incidence","American Indian or Alaska Native",-82.4042600559997,40.0602101410005
+2019,"PR","Puerto Rico","Alcohol","Binge drinking intensity among adults aged >= 18 years who binge drink","Black, non-Hispanic",-66.590149,18.220833
+2008,"UT","Utah","Cancer","Invasive cancer of the prostate, incidence","White, non-Hispanic",-111.587130635,39.3607001710005
+2016,"NJ","New Jersey","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Multiracial, non-Hispanic",-74.2736912879997,40.1305700480005
+2014,"NM","New Mexico","Asthma","Hospitalizations for asthma","Male",-106.240580985,34.5208809520005
+2020,"LA","Louisiana","Oral Health","No tooth loss among adults aged 18-64 years","Male",-92.4456800709997,31.3126606440005
+2011,"AL","Alabama","Cancer","Invasive cancer (all sites combined), mortality","American Indian or Alaska Native",-86.6318607619997,32.8405711220005
+2008,"GA","Georgia","Cancer","Cancer of the prostate, mortality","American Indian or Alaska Native",-83.6275803459997,32.8396810930005
+2018,"NV","Nevada","Asthma","Hospitalizations for asthma","Male",-117.071840564,39.4932403900005
+2016,"OH","Ohio","Overarching Conditions","Recent physically unhealthy days among adults aged >= 18 years","Hispanic",-82.4042600559997,40.0602101410005
+2009,"WI","Wisconsin","Cancer","Cancer of the lung and bronchus, mortality","Asian or Pacific Islander",-89.8163707419997,44.3931911740005
+2020,"CO","Colorado","Diabetes","Mortality due to diabetes reported as any listed cause of death","Male",-106.133610921,38.8438407570005
+2021,"DC","District of Columbia","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","Male",-77.036871,38.907192
+2018,"AR","Arkansas","Nutrition, Physical Activity, and Weight Status","Healthy weight among adults aged >= 18 years","White, non-Hispanic",-92.2744907429997,34.7486501240004
+2018,"CO","Colorado","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 18","White, non-Hispanic",-106.133610921,38.8438407570005
+2013,"KY","Kentucky","Asthma","Asthma mortality rate","Black, non-Hispanic",-84.7749710479997,37.6459702710005
+2011,"HI","Hawaii","Arthritis","Arthritis among adults aged >= 18 years","Hispanic",-157.857749403,21.3048504350004
+2020,"MT","Montana","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes","Other, non-Hispanic",-109.424420645,47.0665289720005
+2020,"KS","Kansas","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma","Overall",-98.2007812269997,38.3477403000005
+2018,"RI","Rhode Island","Asthma","Current asthma prevalence among adults aged >= 18 years","Hispanic",-71.5224703139996,41.7082801930005
+2018,"IA","Iowa","Reproductive Health","Folic acid supplementation","Overall",-93.8164905559997,42.4694009130005
+2010,"OR","Oregon","Asthma","Hospitalizations for asthma","American Indian or Alaska Native",-120.155031326,44.5674494240005
+2013,"GA","Georgia","Overarching Conditions","High school completion among adults aged 18-24 years","Overall",-83.6275803459997,32.8396810930005
+2011,"AR","Arkansas","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-92.2744907429997,34.7486501240004
+2014,"IN","Indiana","Cardiovascular Disease","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease","Overall",-86.1499601939997,39.7669104520004
+2021,"ND","North Dakota","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Other, non-Hispanic",-100.118421049,47.4753197790005
+2012,"FL","Florida","Cancer","Cancer of the lung and bronchus, mortality","Male",-81.9289605389997,28.9320403770005
+2013,"WV","West Virginia","Cancer","Cancer of the female cervix, mortality","Hispanic",-80.7126401349997,38.6655102020005
+2011,"OR","Oregon","Overarching Conditions","Fair or poor self-rated health status among adults aged >= 18 years","White, non-Hispanic",-120.155031326,44.5674494240005
+2012,"TX","Texas","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Black, non-Hispanic",-99.4267702059997,31.8272404070005
+2012,"AZ","Arizona","Cancer","Cancer of the oral cavity and pharynx, mortality","Hispanic",-111.763811277,34.8659702800005
+2013,"NJ","New Jersey","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as any diagnosis","Male",-74.2736912879997,40.1305700480005
+2017,"KS","Kansas","Chronic Kidney Disease","Mortality with end-stage renal disease","American Indian or Alaska Native",-98.2007812269997,38.3477403000005
+2014,"DE","Delaware","Cancer","Invasive cancer (all sites combined), incidence","Black, non-Hispanic",-75.5777411679996,39.0088306670005
+2018,"LA","Louisiana","Diabetes","Dilated eye examination among adults aged >= 18 years with diagnosed diabetes","Multiracial, non-Hispanic",-92.4456800709997,31.3126606440005
+2018,"IL","Illinois","Diabetes","Hospitalization with diabetes as a listed diagnosis","White, non-Hispanic",-88.9977101779997,40.4850102830005
+2014,"VA","Virginia","Cancer","Cancer of the oral cavity and pharynx, mortality","Female",-78.4578904629997,37.5426806740005
+2011,"CT","Connecticut","Chronic Kidney Disease","Mortality with end-stage renal disease","Overall",-72.6498409519996,41.5626610200005
+2018,"DC","District of Columbia","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Female",-77.036871,38.907192
+2015,"AZ","Arizona","Nutrition, Physical Activity, and Weight Status","Television viewing among high school students","American Indian or Alaska Native",-111.763811277,34.8659702800005
+2018,"IA","Iowa","Cardiovascular Disease","Hospitalization for acute myocardial infarction","American Indian or Alaska Native",-93.8164905559997,42.4694009130005
+2019,"MT","Montana","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Male",-109.424420645,47.0665289720005
+2017,"RI","Rhode Island","Arthritis","Severe joint pain due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis","White, non-Hispanic",-71.5224703139996,41.7082801930005
+2021,"ND","North Dakota","Tobacco","Quit attempts in the past year among current smokers","Other, non-Hispanic",-100.118421049,47.4753197790005
+2008,"CA","California","Cancer","Cancer of the female cervix, mortality","White, non-Hispanic",-120.999999538,37.6386401230005
+2011,"GA","Georgia","Chronic Obstructive Pulmonary Disease","Prevalence of activity limitation among adults >= 18 with diagnosed chronic obstructive pulmonary disease","Female",-83.6275803459997,32.8396810930005
+2018,"MO","Missouri","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke","White, non-Hispanic",-92.5663000529997,38.6357907760005
+2011,"MD","Maryland","Cardiovascular Disease","Mortality from diseases of the heart","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2014,"NV","Nevada","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Male",-117.071840564,39.4932403900005
+2008,"SD","South Dakota","Cancer","Cancer of the female cervix, mortality","American Indian or Alaska Native",-100.373530637,44.3531300530005
+2016,"DE","Delaware","Chronic Kidney Disease","Mortality with end-stage renal disease","Hispanic",-75.5777411679996,39.0088306670005
+2015,"NJ","New Jersey","Cardiovascular Disease","Mortality from total cardiovascular diseases","American Indian or Alaska Native",-74.2736912879997,40.1305700480005
+2014,"NH","New Hampshire","Diabetes","Mortality with diabetic ketoacidosis reported as any listed cause of death","Hispanic",-71.5003609199997,43.6559501130005
+2010,"AR","Arkansas","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Female",-92.2744907429997,34.7486501240004
+2013,"UT","Utah","Overarching Conditions","Poverty","Asian, non-Hispanic",-111.587130635,39.3607001710005
+2013,"NH","New Hampshire","Tobacco","Cigarette smoking before pregnancy","American Indian or Alaska Native",-71.5003609199997,43.6559501130005
+2014,"VT","Vermont","Asthma","Emergency department visit rate for asthma","White, non-Hispanic",-72.5176407909996,43.6253812390005
+2018,"MO","Missouri","Cardiovascular Disease","Mortality from total cardiovascular diseases","Overall",-92.5663000529997,38.6357907760005
+2010,"ID","Idaho","Chronic Kidney Disease","Mortality with end-stage renal disease","Hispanic",-114.363730042,43.6826300050005
+2008,"VA","Virginia","Cancer","Invasive cancer (all sites combined), incidence","Male",-78.4578904629997,37.5426806740005
+2016,"IN","Indiana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis","Male",-86.1499601939997,39.7669104520004
+2013,"MA","Massachusetts","Cancer","Invasive melanoma, incidence","Overall",-72.0826906749996,42.2768704700005
+2014,"GU","Guam","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Black, non-Hispanic",144.793731,13.444304
+2017,"AZ","Arizona","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","White, non-Hispanic",-111.763811277,34.8659702800005
+2010,"OR","Oregon","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","American Indian or Alaska Native",-120.155031326,44.5674494240005
+2011,"MT","Montana","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Female",-109.424420645,47.0665289720005
+2018,"MA","Massachusetts","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","Asian or Pacific Islander",-72.0826906749996,42.2768704700005
+2020,"IA","Iowa","Older Adults","Proportion of older adults aged >= 65 years who are up to date on a core set of clinical preventive services","Multiracial, non-Hispanic",-93.8164905559997,42.4694009130005
+2020,"OH","Ohio","Oral Health","No tooth loss among adults aged 18-64 years","White, non-Hispanic",-82.4042600559997,40.0602101410005
+2020,"MI","Michigan","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Male",-84.7143902699997,44.6613195430005
+2018,"MI","Michigan","Arthritis","Arthritis among adults aged >= 18 years","Black, non-Hispanic",-84.7143902699997,44.6613195430005
+2014,"ME","Maine","Overarching Conditions","Poverty among women aged 18-44 years","Overall",-68.9850313359996,45.2542288940005
+2020,"MD","Maryland","Diabetes","Foot examination among adults aged >= 18 years with diagnosed diabetes","Multiracial, non-Hispanic",-76.6092601109996,39.2905809640005
+2021,"LA","Louisiana","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","White, non-Hispanic",-92.4456800709997,31.3126606440005
+2011,"MD","Maryland","Cardiovascular Disease","Awareness of high blood pressure among adults aged >= 18 years","White, non-Hispanic",-76.6092601109996,39.2905809640005
+2013,"SC","South Carolina","Cardiovascular Disease","Hospitalization for acute myocardial infarction","Hispanic",-81.0453712069997,33.9988213030005
+2019,"NE","Nebraska","Nutrition, Physical Activity, and Weight Status","Meeting aerobic physical activity guidelines among high school students","Asian, non-Hispanic",-99.3657206229997,41.6410409880005
+2020,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Prevalence of current smoking among adults >= 45 years with diagnosed chronic obstructive pulmonary disease","Hispanic",-84.7143902699997,44.6613195430005
+2020,"PA","Pennsylvania","Asthma","Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma","Black, non-Hispanic",-77.8607002939996,40.7937301520005
+2012,"GA","Georgia","Cancer","Melanoma, mortality","Overall",-83.6275803459997,32.8396810930005
+2016,"NE","Nebraska","Alcohol","Per capita alcohol consumption among persons aged >= 14 years","Overall",-99.3657206229997,41.6410409880005
+2019,"GA","Georgia","Nutrition, Physical Activity, and Weight Status","Median daily frequency of fruit consumption among high school students","American Indian or Alaska Native",-83.6275803459997,32.8396810930005
+2016,"AR","Arkansas","Alcohol","Binge drinking prevalence among women aged 18-44 years","Black, non-Hispanic",-92.2744907429997,34.7486501240004
+2015,"AK","Alaska","Cancer","Cancer of the prostate, mortality","Overall",-147.722059036,64.8450799570005
+2020,"KY","Kentucky","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","Multiracial, non-Hispanic",-84.7749710479997,37.6459702710005
+2019,"SC","South Carolina","Alcohol","Per capita alcohol consumption among persons aged >= 14 years","Overall",-81.0453712069997,33.9988213030005
+2018,"MA","Massachusetts","Cardiovascular Disease","Mortality from diseases of the heart","Hispanic",-72.0826906749996,42.2768704700005
+2011,"ID","Idaho","Alcohol","Heavy drinking among adults aged >= 18 years","White, non-Hispanic",-114.363730042,43.6826300050005
+2016,"OH","Ohio","Cardiovascular Disease","Mortality from coronary heart disease","Asian or Pacific Islander",-82.4042600559997,40.0602101410005
+2009,"TN","Tennessee","Cancer","Invasive melanoma, incidence","Black, non-Hispanic",-85.7744909139997,35.6809405800005
+2015,"NM","New Mexico","Nutrition, Physical Activity, and Weight Status","Computer use among high school students","Asian, non-Hispanic",-106.240580985,34.5208809520005
+2016,"IA","Iowa","Older Adults","Proportion of older adults aged 50-64 years who are up to date on a core set of clinical preventive services","Multiracial, non-Hispanic",-93.8164905559997,42.4694009130005
+2012,"ID","Idaho","Cancer","Invasive cancer of the prostate, incidence","Hispanic",-114.363730042,43.6826300050005
+2012,"ME","Maine","Oral Health","Six or more teeth lost among adults aged >= 65 years","Multiracial, non-Hispanic",-68.9850313359996,45.2542288940005
+2020,"DE","Delaware","Diabetes","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes","Black, non-Hispanic",-75.5777411679996,39.0088306670005
+2020,"NH","New Hampshire","Older Adults","Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years","Asian or Pacific Islander",-71.5003609199997,43.6559501130005
+2017,"NH","New Hampshire","Cardiovascular Disease","Mortality from diseases of the heart","Hispanic",-71.5003609199997,43.6559501130005
+2012,"MS","Mississippi","Cancer","Melanoma, mortality","Hispanic",-89.5380308249997,32.7455100990005
+2017,"TN","Tennessee","Overarching Conditions","Poverty","White, non-Hispanic",-85.7744909139997,35.6809405800005
+2010,"RI","Rhode Island","Chronic Kidney Disease","Mortality with end-stage renal disease","Male",-71.5224703139996,41.7082801930005
+2013,"MO","Missouri","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years","White, non-Hispanic",-92.5663000529997,38.6357907760005
+2019,"MS","Mississippi","Tobacco","Quit attempts in the past year among current smokers","Hispanic",-89.5380308249997,32.7455100990005
+2011,"IA","Iowa","Chronic Obstructive Pulmonary Disease","Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years","Overall",-93.8164905559997,42.4694009130005
+2011,"MI","Michigan","Chronic Obstructive Pulmonary Disease","Prevalence of chronic obstructive pulmonary disease among adults >= 45 years","White, non-Hispanic",-84.7143902699997,44.6613195430005
+2016,"IA","Iowa","Cardiovascular Disease","Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke","Hispanic",-93.8164905559997,42.4694009130005
+2015,"MD","Maryland","Cancer","Invasive cancer of the prostate, incidence","Overall",-76.6092601109996,39.2905809640005
+2019,"VA","Virginia","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years","Male",-78.4578904629997,37.5426806740005
+2019,"ND","North Dakota","Tobacco","Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke","Black, non-Hispanic",-100.118421049,47.4753197790005
+2011,"FL","Florida","Cancer","Cancer of the colon and rectum (colorectal), incidence","Hispanic",-81.9289605389997,28.9320403770005
+2020,"NE","Nebraska","Tobacco","Current smoking among adults aged >= 18 years","Overall",-99.3657206229997,41.6410409880005
+2015,"SC","South Carolina","Chronic Obstructive Pulmonary Disease","Emergency department visit rate for chronic obstructive pulmonary disease as first-listed diagnosis","Hispanic",-81.0453712069997,33.9988213030005
+2014,"NJ","New Jersey","Tobacco","Current smokeless tobacco use among adults aged >= 18 years","Male",-74.2736912879997,40.1305700480005
+2021,"ID","Idaho","Tobacco","Quit attempts in the past year among current smokers","Male",-114.363730042,43.6826300050005
+2014,"AK","Alaska","Overarching Conditions","High school completion among adults aged 18-24 years","Female",-147.722059036,64.8450799570005
+2019,"PR","Puerto Rico","Arthritis","Arthritis among adults aged >= 18 years","Black, non-Hispanic",-66.590149,18.220833
+2017,"UT","Utah","Cardiovascular Disease","Mortality from coronary heart disease","American Indian or Alaska Native",-111.587130635,39.3607001710005
+2015,"UT","Utah","Nutrition, Physical Activity, and Weight Status","Television viewing among high school students","Male",-111.587130635,39.3607001710005
+2013,"MN","Minnesota","Mental Health","Recent mentally unhealthy days among adults aged >= 18 years","Multiracial, non-Hispanic",-94.7942005029997,46.3556487360005
+2015,"ID","Idaho","Cardiovascular Disease","Mortality from total cardiovascular diseases","Male",-114.363730042,43.6826300050005
+2020,"AL","Alabama","Oral Health","Six or more teeth lost among adults aged >= 65 years","Hispanic",-86.6318607619997,32.8405711220005
+2016,"GU","Guam","Tobacco","Current smoking among adults aged >= 18 years","Black, non-Hispanic",144.793731,13.444304
+2021,"AK","Alaska","Alcohol","Binge drinking prevalence among adults aged >= 18 years","Female",-147.722059036,64.8450799570005
+2012,"FL","Florida","Alcohol","Binge drinking frequency among adults aged >= 18 years who binge drink","Female",-81.9289605389997,28.9320403770005
+2015,"TN","Tennessee","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years","Female",-85.7744909139997,35.6809405800005
+2011,"MO","Missouri","Arthritis","Arthritis among adults aged >= 18 years who have heart disease","Overall",-92.5663000529997,38.6357907760005
+2011,"PA","Pennsylvania","Cardiovascular Disease","Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years","Hispanic",-77.8607002939996,40.7937301520005
+2020,"NJ","New Jersey","Diabetes","Mortality due to diabetes reported as any listed cause of death","Asian or Pacific Islander",-74.2736912879997,40.1305700480005
+2019,"NM","New Mexico","Tobacco","Proportion of the population protected by a comprehensive smoke-free policy prohibiting smoking in all indoor areas of workplaces and public places, including restaurants and bars","Overall",-106.240580985,34.5208809520005
+2014,"MT","Montana","Asthma","Emergency department visit rate for asthma","Hispanic",-109.424420645,47.0665289720005
+2009,"NE","Nebraska","Cancer","Cancer of the colon and rectum (colorectal), incidence","Hispanic",-99.3657206229997,41.6410409880005
+2014,"FL","Florida","Chronic Obstructive Pulmonary Disease","Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years","Hispanic",-81.9289605389997,28.9320403770005

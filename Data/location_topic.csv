@@ -1,0 +1,472 @@
+"LocationAbbr","Topic","Total"
+"AK","Alcohol",3
+"AK","Arthritis",4
+"AK","Asthma",2
+"AK","Cancer",4
+"AK","Cardiovascular Disease",3
+"AK","Chronic Obstructive Pulmonary Disease",3
+"AK","Diabetes",5
+"AK","Nutrition, Physical Activity, and Weight Status",1
+"AK","Overarching Conditions",1
+"AK","Tobacco",1
+"AL","Cancer",4
+"AL","Cardiovascular Disease",3
+"AL","Chronic Obstructive Pulmonary Disease",4
+"AL","Diabetes",2
+"AL","Nutrition, Physical Activity, and Weight Status",1
+"AL","Oral Health",1
+"AL","Reproductive Health",1
+"AL","Tobacco",1
+"AR","Alcohol",3
+"AR","Asthma",2
+"AR","Cancer",1
+"AR","Cardiovascular Disease",2
+"AR","Chronic Obstructive Pulmonary Disease",3
+"AR","Diabetes",2
+"AR","Nutrition, Physical Activity, and Weight Status",1
+"AZ","Alcohol",2
+"AZ","Arthritis",2
+"AZ","Asthma",1
+"AZ","Cancer",4
+"AZ","Cardiovascular Disease",2
+"AZ","Chronic Obstructive Pulmonary Disease",6
+"AZ","Diabetes",1
+"AZ","Nutrition, Physical Activity, and Weight Status",2
+"CA","Alcohol",1
+"CA","Arthritis",2
+"CA","Asthma",3
+"CA","Cancer",3
+"CA","Cardiovascular Disease",5
+"CA","Chronic Kidney Disease",2
+"CA","Chronic Obstructive Pulmonary Disease",5
+"CA","Diabetes",2
+"CA","Older Adults",1
+"CA","Overarching Conditions",1
+"CA","Tobacco",1
+"CO","Arthritis",2
+"CO","Asthma",3
+"CO","Cancer",4
+"CO","Cardiovascular Disease",2
+"CO","Chronic Obstructive Pulmonary Disease",3
+"CO","Diabetes",2
+"CO","Immunization",1
+"CO","Oral Health",1
+"CO","Overarching Conditions",1
+"CO","Tobacco",2
+"CT","Asthma",3
+"CT","Cancer",4
+"CT","Cardiovascular Disease",1
+"CT","Chronic Kidney Disease",2
+"CT","Chronic Obstructive Pulmonary Disease",5
+"CT","Nutrition, Physical Activity, and Weight Status",1
+"CT","Older Adults",2
+"CT","Overarching Conditions",4
+"DC","Alcohol",1
+"DC","Arthritis",1
+"DC","Asthma",5
+"DC","Cancer",2
+"DC","Chronic Kidney Disease",1
+"DC","Chronic Obstructive Pulmonary Disease",1
+"DC","Diabetes",1
+"DC","Mental Health",1
+"DC","Nutrition, Physical Activity, and Weight Status",6
+"DC","Tobacco",2
+"DE","Alcohol",1
+"DE","Arthritis",1
+"DE","Asthma",4
+"DE","Cancer",3
+"DE","Cardiovascular Disease",3
+"DE","Chronic Kidney Disease",1
+"DE","Chronic Obstructive Pulmonary Disease",2
+"DE","Diabetes",3
+"DE","Oral Health",1
+"DE","Overarching Conditions",1
+"FL","Alcohol",1
+"FL","Asthma",2
+"FL","Cancer",4
+"FL","Cardiovascular Disease",1
+"FL","Chronic Obstructive Pulmonary Disease",2
+"FL","Diabetes",3
+"FL","Nutrition, Physical Activity, and Weight Status",2
+"FL","Oral Health",1
+"FL","Overarching Conditions",2
+"FL","Tobacco",2
+"GA","Alcohol",2
+"GA","Arthritis",1
+"GA","Cancer",3
+"GA","Cardiovascular Disease",2
+"GA","Chronic Obstructive Pulmonary Disease",7
+"GA","Diabetes",2
+"GA","Nutrition, Physical Activity, and Weight Status",3
+"GA","Overarching Conditions",3
+"GA","Tobacco",1
+"GU","Alcohol",1
+"GU","Arthritis",1
+"GU","Asthma",1
+"GU","Diabetes",1
+"GU","Nutrition, Physical Activity, and Weight Status",2
+"GU","Oral Health",2
+"GU","Overarching Conditions",1
+"GU","Tobacco",1
+"HI","Alcohol",4
+"HI","Arthritis",4
+"HI","Cancer",1
+"HI","Cardiovascular Disease",4
+"HI","Chronic Obstructive Pulmonary Disease",2
+"HI","Disability",1
+"HI","Mental Health",1
+"HI","Nutrition, Physical Activity, and Weight Status",2
+"IA","Alcohol",1
+"IA","Asthma",2
+"IA","Cancer",1
+"IA","Cardiovascular Disease",5
+"IA","Chronic Kidney Disease",1
+"IA","Chronic Obstructive Pulmonary Disease",2
+"IA","Diabetes",3
+"IA","Older Adults",3
+"IA","Overarching Conditions",2
+"IA","Reproductive Health",1
+"ID","Alcohol",1
+"ID","Asthma",1
+"ID","Cancer",3
+"ID","Cardiovascular Disease",2
+"ID","Chronic Kidney Disease",1
+"ID","Chronic Obstructive Pulmonary Disease",2
+"ID","Diabetes",5
+"ID","Mental Health",1
+"ID","Older Adults",1
+"ID","Oral Health",2
+"ID","Tobacco",5
+"IL","Alcohol",3
+"IL","Cancer",2
+"IL","Cardiovascular Disease",4
+"IL","Chronic Kidney Disease",1
+"IL","Chronic Obstructive Pulmonary Disease",1
+"IL","Diabetes",3
+"IL","Mental Health",1
+"IL","Nutrition, Physical Activity, and Weight Status",2
+"IL","Oral Health",1
+"IL","Overarching Conditions",1
+"IL","Tobacco",3
+"IN","Alcohol",2
+"IN","Asthma",1
+"IN","Cancer",4
+"IN","Cardiovascular Disease",4
+"IN","Chronic Kidney Disease",1
+"IN","Chronic Obstructive Pulmonary Disease",3
+"IN","Diabetes",3
+"IN","Nutrition, Physical Activity, and Weight Status",2
+"IN","Older Adults",1
+"IN","Overarching Conditions",2
+"KS","Arthritis",1
+"KS","Asthma",1
+"KS","Cancer",2
+"KS","Cardiovascular Disease",1
+"KS","Chronic Kidney Disease",1
+"KS","Diabetes",3
+"KS","Nutrition, Physical Activity, and Weight Status",2
+"KS","Older Adults",1
+"KS","Oral Health",2
+"KS","Overarching Conditions",2
+"KS","Tobacco",2
+"KY","Arthritis",1
+"KY","Asthma",2
+"KY","Cancer",2
+"KY","Cardiovascular Disease",1
+"KY","Chronic Obstructive Pulmonary Disease",2
+"KY","Diabetes",2
+"KY","Nutrition, Physical Activity, and Weight Status",2
+"KY","Oral Health",1
+"KY","Tobacco",2
+"LA","Arthritis",1
+"LA","Asthma",2
+"LA","Cancer",1
+"LA","Cardiovascular Disease",1
+"LA","Chronic Obstructive Pulmonary Disease",2
+"LA","Diabetes",6
+"LA","Mental Health",1
+"LA","Nutrition, Physical Activity, and Weight Status",4
+"LA","Older Adults",1
+"LA","Oral Health",1
+"LA","Overarching Conditions",1
+"LA","Tobacco",1
+"MA","Alcohol",1
+"MA","Asthma",1
+"MA","Cancer",5
+"MA","Cardiovascular Disease",2
+"MA","Chronic Obstructive Pulmonary Disease",5
+"MA","Diabetes",1
+"MA","Nutrition, Physical Activity, and Weight Status",1
+"MA","Overarching Conditions",2
+"MD","Alcohol",1
+"MD","Arthritis",2
+"MD","Asthma",3
+"MD","Cancer",3
+"MD","Cardiovascular Disease",3
+"MD","Chronic Obstructive Pulmonary Disease",2
+"MD","Diabetes",6
+"MD","Nutrition, Physical Activity, and Weight Status",1
+"MD","Older Adults",2
+"MD","Oral Health",1
+"MD","Overarching Conditions",1
+"MD","Tobacco",3
+"ME","Arthritis",1
+"ME","Asthma",2
+"ME","Cancer",7
+"ME","Cardiovascular Disease",2
+"ME","Chronic Kidney Disease",1
+"ME","Chronic Obstructive Pulmonary Disease",1
+"ME","Diabetes",1
+"ME","Immunization",1
+"ME","Nutrition, Physical Activity, and Weight Status",1
+"ME","Older Adults",1
+"ME","Oral Health",1
+"ME","Overarching Conditions",3
+"ME","Tobacco",2
+"MI","Arthritis",3
+"MI","Cardiovascular Disease",3
+"MI","Chronic Obstructive Pulmonary Disease",6
+"MI","Diabetes",3
+"MI","Mental Health",2
+"MI","Older Adults",1
+"MI","Tobacco",4
+"MN","Arthritis",1
+"MN","Asthma",3
+"MN","Cancer",3
+"MN","Cardiovascular Disease",1
+"MN","Chronic Kidney Disease",1
+"MN","Chronic Obstructive Pulmonary Disease",5
+"MN","Diabetes",3
+"MN","Mental Health",2
+"MN","Nutrition, Physical Activity, and Weight Status",1
+"MN","Oral Health",1
+"MN","Tobacco",2
+"MO","Alcohol",1
+"MO","Arthritis",2
+"MO","Cardiovascular Disease",6
+"MO","Chronic Obstructive Pulmonary Disease",1
+"MO","Diabetes",4
+"MO","Immunization",1
+"MO","Tobacco",1
+"MS","Alcohol",1
+"MS","Asthma",2
+"MS","Cancer",7
+"MS","Cardiovascular Disease",1
+"MS","Chronic Kidney Disease",2
+"MS","Chronic Obstructive Pulmonary Disease",3
+"MS","Diabetes",1
+"MS","Nutrition, Physical Activity, and Weight Status",2
+"MS","Overarching Conditions",1
+"MS","Tobacco",6
+"MT","Alcohol",3
+"MT","Arthritis",2
+"MT","Asthma",2
+"MT","Cancer",5
+"MT","Cardiovascular Disease",3
+"MT","Chronic Kidney Disease",2
+"MT","Chronic Obstructive Pulmonary Disease",3
+"MT","Diabetes",3
+"MT","Nutrition, Physical Activity, and Weight Status",1
+"MT","Overarching Conditions",1
+"NC","Asthma",2
+"NC","Cancer",2
+"NC","Cardiovascular Disease",1
+"NC","Chronic Kidney Disease",1
+"NC","Chronic Obstructive Pulmonary Disease",5
+"NC","Diabetes",5
+"NC","Older Adults",1
+"ND","Alcohol",2
+"ND","Arthritis",2
+"ND","Asthma",1
+"ND","Cancer",1
+"ND","Cardiovascular Disease",5
+"ND","Chronic Obstructive Pulmonary Disease",2
+"ND","Diabetes",4
+"ND","Nutrition, Physical Activity, and Weight Status",1
+"ND","Overarching Conditions",4
+"ND","Tobacco",4
+"NE","Alcohol",1
+"NE","Arthritis",2
+"NE","Asthma",1
+"NE","Cancer",1
+"NE","Cardiovascular Disease",3
+"NE","Chronic Obstructive Pulmonary Disease",7
+"NE","Diabetes",1
+"NE","Mental Health",1
+"NE","Nutrition, Physical Activity, and Weight Status",2
+"NE","Reproductive Health",1
+"NE","Tobacco",1
+"NH","Cancer",2
+"NH","Cardiovascular Disease",3
+"NH","Chronic Kidney Disease",2
+"NH","Chronic Obstructive Pulmonary Disease",3
+"NH","Diabetes",3
+"NH","Mental Health",1
+"NH","Nutrition, Physical Activity, and Weight Status",2
+"NH","Older Adults",1
+"NH","Oral Health",1
+"NH","Overarching Conditions",2
+"NH","Tobacco",1
+"NJ","Alcohol",3
+"NJ","Arthritis",1
+"NJ","Asthma",1
+"NJ","Cancer",4
+"NJ","Cardiovascular Disease",3
+"NJ","Chronic Kidney Disease",1
+"NJ","Chronic Obstructive Pulmonary Disease",2
+"NJ","Diabetes",4
+"NJ","Nutrition, Physical Activity, and Weight Status",1
+"NJ","Tobacco",3
+"NM","Alcohol",1
+"NM","Arthritis",1
+"NM","Asthma",3
+"NM","Cancer",2
+"NM","Cardiovascular Disease",1
+"NM","Chronic Kidney Disease",1
+"NM","Chronic Obstructive Pulmonary Disease",1
+"NM","Diabetes",3
+"NM","Disability",1
+"NM","Nutrition, Physical Activity, and Weight Status",2
+"NM","Oral Health",1
+"NM","Tobacco",1
+"NV","Arthritis",3
+"NV","Asthma",5
+"NV","Cancer",3
+"NV","Cardiovascular Disease",5
+"NV","Chronic Obstructive Pulmonary Disease",2
+"NV","Diabetes",2
+"NV","Mental Health",1
+"NV","Overarching Conditions",1
+"NV","Tobacco",1
+"NY","Cancer",4
+"NY","Cardiovascular Disease",3
+"NY","Chronic Obstructive Pulmonary Disease",3
+"NY","Diabetes",1
+"NY","Nutrition, Physical Activity, and Weight Status",1
+"NY","Overarching Conditions",2
+"NY","Reproductive Health",1
+"OH","Alcohol",2
+"OH","Arthritis",3
+"OH","Asthma",1
+"OH","Cancer",3
+"OH","Cardiovascular Disease",2
+"OH","Chronic Obstructive Pulmonary Disease",1
+"OH","Mental Health",1
+"OH","Nutrition, Physical Activity, and Weight Status",2
+"OH","Older Adults",1
+"OH","Oral Health",1
+"OH","Overarching Conditions",2
+"OK","Alcohol",1
+"OK","Arthritis",1
+"OK","Asthma",3
+"OK","Cancer",3
+"OK","Cardiovascular Disease",5
+"OK","Chronic Obstructive Pulmonary Disease",2
+"OK","Diabetes",4
+"OK","Nutrition, Physical Activity, and Weight Status",1
+"OK","Overarching Conditions",1
+"OK","Tobacco",2
+"OR","Alcohol",1
+"OR","Asthma",1
+"OR","Cancer",4
+"OR","Cardiovascular Disease",2
+"OR","Chronic Obstructive Pulmonary Disease",4
+"OR","Diabetes",1
+"OR","Older Adults",1
+"OR","Overarching Conditions",1
+"OR","Tobacco",2
+"PA","Alcohol",3
+"PA","Arthritis",4
+"PA","Asthma",5
+"PA","Cardiovascular Disease",4
+"PA","Chronic Kidney Disease",1
+"PA","Chronic Obstructive Pulmonary Disease",3
+"PA","Diabetes",5
+"PA","Nutrition, Physical Activity, and Weight Status",1
+"PA","Older Adults",1
+"PR","Alcohol",3
+"PR","Arthritis",2
+"PR","Asthma",2
+"PR","Cardiovascular Disease",2
+"PR","Diabetes",1
+"PR","Nutrition, Physical Activity, and Weight Status",1
+"PR","Overarching Conditions",1
+"PR","Tobacco",1
+"RI","Alcohol",2
+"RI","Arthritis",1
+"RI","Asthma",4
+"RI","Cancer",1
+"RI","Cardiovascular Disease",1
+"RI","Chronic Kidney Disease",2
+"RI","Chronic Obstructive Pulmonary Disease",1
+"RI","Diabetes",4
+"RI","Nutrition, Physical Activity, and Weight Status",2
+"RI","Overarching Conditions",1
+"RI","Reproductive Health",1
+"SC","Alcohol",2
+"SC","Arthritis",1
+"SC","Asthma",1
+"SC","Cancer",4
+"SC","Cardiovascular Disease",1
+"SC","Chronic Kidney Disease",2
+"SC","Chronic Obstructive Pulmonary Disease",2
+"SC","Diabetes",2
+"SC","Oral Health",1
+"SC","Overarching Conditions",3
+"SD","Arthritis",3
+"SD","Cancer",4
+"SD","Chronic Obstructive Pulmonary Disease",4
+"SD","Diabetes",2
+"TN","Cancer",2
+"TN","Cardiovascular Disease",4
+"TN","Chronic Obstructive Pulmonary Disease",1
+"TN","Older Adults",1
+"TN","Overarching Conditions",1
+"TX","Alcohol",1
+"TX","Cancer",2
+"TX","Cardiovascular Disease",1
+"TX","Chronic Obstructive Pulmonary Disease",2
+"UT","Alcohol",1
+"UT","Asthma",1
+"UT","Cancer",3
+"UT","Cardiovascular Disease",3
+"UT","Chronic Obstructive Pulmonary Disease",1
+"UT","Diabetes",3
+"UT","Nutrition, Physical Activity, and Weight Status",2
+"UT","Oral Health",1
+"UT","Overarching Conditions",2
+"VA","Cancer",3
+"VA","Cardiovascular Disease",4
+"VA","Chronic Obstructive Pulmonary Disease",2
+"VA","Diabetes",1
+"VI","Nutrition, Physical Activity, and Weight Status",1
+"VT","Asthma",1
+"VT","Cancer",2
+"VT","Cardiovascular Disease",1
+"VT","Chronic Obstructive Pulmonary Disease",4
+"VT","Diabetes",1
+"VT","Tobacco",1
+"WA","Asthma",1
+"WA","Cancer",2
+"WA","Chronic Obstructive Pulmonary Disease",2
+"WA","Nutrition, Physical Activity, and Weight Status",1
+"WA","Overarching Conditions",1
+"WA","Tobacco",1
+"WI","Cancer",3
+"WI","Cardiovascular Disease",2
+"WI","Chronic Obstructive Pulmonary Disease",1
+"WI","Diabetes",2
+"WI","Older Adults",1
+"WV","Alcohol",1
+"WV","Asthma",1
+"WV","Cancer",3
+"WV","Cardiovascular Disease",3
+"WV","Chronic Kidney Disease",2
+"WV","Chronic Obstructive Pulmonary Disease",2
+"WV","Overarching Conditions",1
+"WV","Reproductive Health",1
+"WY","Cancer",8
+"WY","Cardiovascular Disease",1
+"WY","Chronic Kidney Disease",1
+"WY","Chronic Obstructive Pulmonary Disease",1
+"WY","Nutrition, Physical Activity, and Weight Status",2
