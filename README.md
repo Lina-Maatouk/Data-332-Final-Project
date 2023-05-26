@@ -8,7 +8,7 @@ This project focuses on analyzing toxic chemical releases in the United States, 
 
 ## Dependencies: 
 * This code is an R script.
-* The dataset needed is also provided in the following link: https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present
+* The dataset needed is also provided in the following link: https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present and https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
 
 ## 1. US Toxic release in 2021:biohazard:
 
