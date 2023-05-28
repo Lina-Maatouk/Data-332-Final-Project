@@ -202,6 +202,7 @@ location_topic_data <- readRDS("location_topic.rds")
 unique_locations <- unique(subset_data$LocationAbbr)
 ```
 #### Shiny
+Link: https://hildana.shinyapps.io/project4/
 ```R
 ui <- fluidPage(
   tabsetPanel(
